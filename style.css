@@ -17,3 +17,58 @@
  color:white;text-decoration:none;overflow-wrap:anywhere}
 .creator-tile span{color:#aaa3b6;font-size:13px}
 .creator-tile:hover{outline:2px solid #fb4eac}
+/* VICEWIRE NEON THEME */
+
+body {
+  background-color: #100b19;
+  background-image:
+    linear-gradient(
+      180deg,
+      rgba(12,8,24,0.73) 0%,
+      rgba(15,8,27,0.79) 55%,
+      rgba(13,8,21,0.90) 100%
+    ),
+    url('/vicewire-neon-background.jpg');
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+header {
+  background: rgba(13,9,24,0.88);
+  backdrop-filter: blur(12px);
+}
+
+.hero {
+  padding: 45px 28px;
+  border-radius: 20px;
+  background:
+    linear-gradient(
+      90deg,
+      rgba(12,7,23,0.88),
+      rgba(12,7,23,0.22)
+    ),
+    url('/vicewire-neon-background.jpg');
+  background-size: cover;
+  background-position: center;
+  margin: 18px 0 28px;
+}
+
+.card {
+  background: rgba(25,23,36,0.96);
+}
+
+.creator-directory,
+.admin {
+  backdrop-filter: blur(12px);
+}
+
+@media (max-width: 700px) {
+  body {
+    background-attachment: scroll;
+  }
+
+  .hero {
+    padding: 30px 18px;
+  }
+}
