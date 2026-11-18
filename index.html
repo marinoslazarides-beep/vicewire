@@ -1,0 +1,188 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VICEWIRE — GTA 6 Discovery</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#0b0b12;color:#f4f4f7;font:15px system-ui,Arial}
+header{padding:22px 5%;border-bottom:1px solid #30303e;display:flex;align-items:center;justify-content:space-between;gap:15px}
+.logo{font-weight:900;font-size:26px;letter-spacing:2px;color:#fb4eac}
+.logo span{color:#fff}
+.small{color:#a7a6b7;font-size:13px}
+main{max-width:1300px;margin:auto;padding:35px 5%}
+h1{font-size:clamp(30px,5vw,54px);line-height:1.05;margin:0 0 14px}
+.pink{color:#fb4eac}
+.hero{padding:25px 0 32px}
+.controls{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:24px}
+input,select,textarea{background:#20202e;color:white;border:1px solid #414153;border-radius:9px;padding:12px;font:inherit}
+#search{flex:1;min-width:200px}
+button{background:#fb4eac;border:none;padding:12px 17px;border-radius:9px;color:#180815;font-weight:800;cursor:pointer}
+button.secondary{background:#252535;color:white}
+button.active{outline:2px solid #fb4eac}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:20px}
+.card{border:1px solid #343444;background:#171722;border-radius:14px;overflow:hidden}
+.thumb{aspect-ratio:16/9;background:linear-gradient(135deg,#4b1747,#19152e);display:flex;justify-content:center;align-items:center;font-size:40px;cursor:pointer}
+.thumb img{width:100%;height:100%;object-fit:cover}
+.details{padding:16px}
+.details h3{margin:0 0 8px}
+.meta{color:#aaa9bb;font-size:13px}
+.tag{display:inline-block;padding:4px 9px;background:#39203e;color:#ff84c3;border-radius:20px;margin-top:10px;font-size:12px}
+.actions{display:flex;gap:8px;margin-top:14px}
+.actions button{padding:8px 10px}
+#player{margin:15px 0 25px}
+#player iframe{width:100%;aspect-ratio:16/9;border:0;border-radius:13px}
+dialog{background:#191925;color:white;border:1px solid #555469;border-radius:15px;width:min(500px,95vw)}
+form{display:grid;gap:12px}
+form input,form select,form textarea{width:100%}
+label{display:flex;gap:8px;align-items:center}
+footer{text-align:center;color:#8d8c9c;padding:45px}
+.empty{padding:35px;border:1px dashed #44445a;border-radius:13px;color:#aaa9bb}
+@media(max-width:600px){header{padding:15px 5%}main{padding-top:20px}}
+</style>
+</head>
+<body>
+<header>
+<div class="logo">VICE<span>WIRE</span></div>
+<div class="small">GTA 6 • The Creator Pulse</div>
+</header>
+<main>
+<section class="hero">
+<div class="small">THE INTERNET'S GTA 6 VIDEO HUB</div>
+<h1>EVERY REACTION.<br><span class="pink">ONE PLACE.</span></h1>
+<p class="small">Discover reviews, viral moments, gameplay and creator opinions from YouTube and TikTok.</p>
+<button onclick="document.querySelector('dialog').showModal()">+ Add Video</button>
+</section>
+<section class="controls">
+<input id="search" placeholder="Search videos or creators..." oninput="render()">
+<select id="category" onchange="render()">
+<option value="">All categories</option>
+<option>Review</option><option>Reaction</option><option>Viral</option>
+<option>Gameplay</option><option>Official</option>
+</select>
+<select id="platform" onchange="render()">
+<option value="">All platforms</option><option>YouTube</option><option>TikTok</option>
+</select>
+<label><input type="checkbox" id="safe" onchange="render()"> Spoiler-free</label>
+<button class="secondary" id="savedButton" onclick="toggleSaved()">Saved only</button>
+</section>
+<div id="player"></div>
+<div id="feed" class="grid"></div>
+</main>
+
+<dialog>
+<form id="addForm">
+<h2>Add a GTA 6 video</h2>
+<input name="url" placeholder="Full YouTube or TikTok video URL" required>
+<input name="title" placeholder="Video title" maxlength="150" required>
+<input name="creator" placeholder="Creator name" maxlength="80" required>
+<select name="category">
+<option>Review</option><option>Reaction</option><option>Viral</option>
+<option>Gameplay</option><option>Official</option>
+</select>
+<textarea name="summary" rows="3" placeholder="Optional creator review notes / summary"></textarea>
+<label><input name="spoiler" type="checkbox"> Contains spoilers</label>
+<button type="submit">Save Video</button>
+<button type="button" class="secondary" onclick="document.querySelector('dialog').close()">Cancel</button>
+<div id="formStatus" class="small"></div>
+</form>
+</dialog>
+<footer>VICEWIRE • Independent community discovery project. Not affiliated with Rockstar Games.</footer>
+<script>
+let videos=[];
+let savedOnly=false;
+let saved=[];
+try {saved=JSON.parse(localStorage.getItem("vicewire_saved")||"[]")}catch{}
+const esc=s=>String(s||"").replace(/[&<>"']/g,c=>({
+"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
+}[c]));
+
+async function load(){
+  const r=await fetch("/api/videos");
+  videos=await r.json();
+  render();
+}
+function render(){
+  const q=document.getElementById("search").value.toLowerCase();
+  const category=document.getElementById("category").value;
+  const platform=document.getElementById("platform").value;
+  const safe=document.getElementById("safe").checked;
+  const items=videos.filter(v=>
+    (!q || (v.title+" "+v.creator+" "+v.summary).toLowerCase().includes(q)) &&
+    (!category || v.category===category) &&
+    (!platform || v.platform===platform) &&
+    (!safe || !v.spoiler) &&
+    (!savedOnly || saved.includes(v.url))
+  );
+  const feed=document.getElementById("feed");
+  if(!items.length){
+    feed.innerHTML='<div class="empty">No videos match your filters yet. Add the first GTA 6 video to build the feed.</div>';
+    return;
+  }
+  feed.innerHTML=items.map(v=>{
+    const idx=videos.indexOf(v);
+    const thumb=v.platform==="YouTube"
+      ? '<img loading="lazy" src="https://img.youtube.com/vi/'+esc(v.id)+'/hqdefault.jpg" alt="">'
+      : '▶';
+    return '<article class="card">'+
+      '<div class="thumb" onclick="play('+idx+')">'+thumb+'</div>'+
+      '<div class="details"><h3>'+esc(v.title)+'</h3>'+
+      '<div class="meta">'+esc(v.creator)+' · '+esc(v.platform)+'</div>'+
+      '<span class="tag">'+esc(v.category)+'</span>'+
+      (v.spoiler?' <span class="tag">Spoilers</span>':'')+
+      (v.summary?'<p>'+esc(v.summary)+'</p>':'')+
+      '<div class="actions"><button onclick="play('+idx+')">Watch</button>'+
+      '<button class="secondary" onclick="save('+idx+')">'+
+      (saved.includes(v.url)?'★ Saved':'☆ Save')+'</button></div></div></article>';
+  }).join("");
+}
+function play(i){
+  const v=videos[i];
+  const src=v.platform==="YouTube"
+    ? "https://www.youtube-nocookie.com/embed/"+v.id
+    : "https://www.tiktok.com/embed/v2/"+v.id;
+  document.getElementById("player").innerHTML=
+    '<button class="secondary" onclick="document.getElementById(\'player\').innerHTML=\'\'">Close player</button>'+
+    '<h2>'+esc(v.title)+'</h2>'+
+    '<iframe allowfullscreen allow="encrypted-media; picture-in-picture" src="'+src+'"></iframe>'+
+    '<p><a style="color:#fb4eac" href="'+esc(v.url)+'" target="_blank" rel="noopener noreferrer">Open original video</a></p>';
+  window.scrollTo({top:document.getElementById("player").offsetTop,behavior:"smooth"});
+}
+function save(i){
+  const url=videos[i].url;
+  saved=saved.includes(url)?saved.filter(x=>x!==url):[...saved,url];
+  localStorage.setItem("vicewire_saved",JSON.stringify(saved));
+  render();
+}
+function toggleSaved(){
+  savedOnly=!savedOnly;
+  document.getElementById("savedButton").classList.toggle("active",savedOnly);
+  render();
+}
+document.getElementById("addForm").addEventListener("submit",async e=>{
+  e.preventDefault();
+  const f=new FormData(e.target);
+  const item=Object.fromEntries(f.entries());
+  item.spoiler=f.has("spoiler");
+  const status=document.getElementById("formStatus");
+  try{
+    const r=await fetch("/api/videos",{
+      method:"POST",
+      headers:{"Content-Type":"application/json"},
+      body:JSON.stringify(item)
+    });
+    const data=await r.json();
+    if(!r.ok)throw Error(data.error||"Could not save.");
+    e.target.reset();
+    e.target.closest("dialog").close();
+    status.textContent="";
+    await load();
+  }catch(err){status.textContent=err.message}
+});
+load().catch(()=>{
+  document.getElementById("feed").innerHTML='<div class="empty">Could not load videos.</div>';
+});
+</script>
+</body>
+</html>
