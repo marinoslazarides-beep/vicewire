@@ -21,7 +21,9 @@ jobs:
       - name: Import public YouTube metadata
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: node import-youtube.js
+        run: |
+          node import-youtube.js
+          node youtube-metadata.js
       - name: Commit updated video catalog
         run: |
           if git diff --quiet -- videos.json; then
