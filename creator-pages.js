@@ -88,7 +88,7 @@ function creatorPage(res, pathname) {
     .sort((a,b) => Date.parse(b.createdAt || 0) - Date.parse(a.createdAt || 0));
 
   const canonical = BASE + creatorUrl(name);
-  const description = `Discover ${name}'s GTA 6 YouTube videos, reviews and gameplay on VICEWIRE.`;
+  const description = `Discover ${name}'s GTA 6 YouTube videos, reviews and gameplay on Neon Afterhours GTA.`;
 
   const cards = items.map(v => {
     const title = escapeHtml(v.title || 'GTA 6 video');
@@ -120,7 +120,7 @@ function creatorPage(res, pathname) {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>${escapeHtml(name)} GTA 6 Videos | VICEWIRE</title>
+<title>${escapeHtml(name)} GTA 6 Videos | Neon Afterhours GTA</title>
 <meta name="description" content="${escapeHtml(description)}">
 <meta name="robots" content="${items.length >= 2 ? 'index,follow' : 'noindex,follow'}">
 <link rel="canonical" href="${escapeHtml(canonical)}">
@@ -128,7 +128,7 @@ function creatorPage(res, pathname) {
 </head>
 <body>
 <header>
-<strong>VICE<span>WIRE</span></strong>
+<strong>NEON<span> AFTERHOURS GTA</span></strong>
 <nav><a href="/">Back to all GTA 6 videos</a></nav>
 </header>
 <main>
@@ -173,8 +173,8 @@ function creatorDirectory(res) {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>GTA 6 YouTube Creators | VICEWIRE</title>
-<meta name="description" content="Discover GTA 6 YouTube creators, videos, livestreams and reviews on VICEWIRE.">
+<title>GTA 6 YouTube Creators | Neon Afterhours GTA</title>
+<meta name="description" content="Discover GTA 6 YouTube creators, videos, livestreams and reviews on Neon Afterhours GTA.">
 <link rel="canonical" href="${BASE}/creators">
 <link rel="stylesheet" href="/style.css">
 <style>
@@ -207,19 +207,19 @@ function creatorDirectory(res) {
 </head>
 <body>
 <header>
-<strong>VICE<span>WIRE</span></strong>
-<nav><a href="/">Back to VICEWIRE</a></nav>
+<strong>NEON<span> AFTERHOURS GTA</span></strong>
+<nav><a href="/">Back to Neon Afterhours GTA</a></nav>
 </header>
 <main>
 <section class="hero">
 <p class="eyebrow">THE GTA 6 COMMUNITY</p>
 <h1>DISCOVER <em>CREATORS.</em></h1>
-<p>Explore YouTubers featured on VICEWIRE.</p>
+<p>Explore YouTubers featured on Neon Afterhours GTA.</p>
 <p>${groups.length} creators listed</p>
 </section>
 <div class="creator-list">${cards}</div>
 </main>
-<footer>VICEWIRE - Independent GTA 6 discovery.</footer>
+<footer>Neon Afterhours GTA - Independent GTA 6 discovery.</footer>
 </body>
 </html>`;
 
