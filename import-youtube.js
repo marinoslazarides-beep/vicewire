@@ -44,7 +44,7 @@ async function main(){
       for(const item of found.items||[]){
         const id=item.id?.videoId, s=item.snippet||{};
         if(!videoIdPattern.test(id||'') || ids.has(id))continue;
-        if(!relevant.test((s.title||'')+' '+(s.description||'')))continue;
+        if(!relevant.test(s.title||''))continue;
         const title=clean(s.title,150),creator=clean(s.channelTitle,80);
         if(!title||!creator)continue;
         additions.push({platform:'YouTube',id,url:'https://www.youtube.com/watch?v='+id,
