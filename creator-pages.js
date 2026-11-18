@@ -2,7 +2,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
 
-const BASE = 'https://vicewire.onrender.com';
+const BASE = 'https://neon-afterhours-gta.onrender.com';
 const DATA = path.join(__dirname, 'videos.json');
 
 function escapeHtml(value) {
