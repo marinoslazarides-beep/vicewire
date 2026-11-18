@@ -1,4 +1,5 @@
 'use strict';
+const creatorPages = require('./creator-pages');
 const http = require('node:http');
 const fs = require('node:fs');
 const path = require('node:path');
@@ -139,6 +140,7 @@ const server=http.createServer(async(req,res)=>{
   try {
     const u=new URL(req.url,'http://placeholder');
     const pathname=u.pathname;
+    if (creatorPages.handle(req,res,pathname)) return;
     if(!rateLimit(req,'general',600,5*60_000)) return json(res,429,{error:'Too many requests'});
     if(req.method==='GET' && pathname==='/api/health') return json(res,200,{ok:true});
     if(req.method==='GET' && pathname==='/api/videos') {

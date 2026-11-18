@@ -1,4 +1,4 @@
-﻿'use strict';
+'use strict';
 let videos=[],csrf=null,savedOnly=false,saved=[];
 try{saved=JSON.parse(localStorage.getItem('vicewire_saved')||'[]')}catch{saved=[]}
 const el=id=>document.getElementById(id);
@@ -14,7 +14,11 @@ function render(){
   const card=element('article','card'),thumb=element('button','thumb');thumb.type='button';
   if(v.platform==='YouTube' && /^[\w-]{11}$/.test(v.id)){const img=element('img');img.src='https://img.youtube.com/vi/'+v.id+'/hqdefault.jpg';img.alt='Video thumbnail';img.loading='lazy';thumb.append(img)}else thumb.textContent='▶';
   thumb.addEventListener('click',()=>play(v));card.append(thumb);
-  const body=element('div','details');body.append(element('h3','',v.title),element('div','muted',v.creator+' · '+v.platform),element('span','tag',v.category));
+  const body=element('div','details');const creatorMeta=element('div','muted');
+const creatorLink=element('a','',v.creator);
+creatorLink.href='/creator/'+encodeURIComponent(v.creator.trim());
+creatorMeta.append(creatorLink,document.createTextNode(' | '+v.platform));
+body.append(element('h3','',v.title),creatorMeta,element('span','tag',v.category));
   if(v.spoiler)body.append(element('span','tag','Spoilers'));
   if(v.summary)body.append(element('p','',v.summary));
   const actions=element('div','actions'),watch=element('button','', 'Watch'),save=element('button','secondary',saved.includes(v.url)?'★ Saved':'☆ Save');
