@@ -1,0 +1,35 @@
+name: Import GTA 6 videos
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: vicewire-video-import
+  cancel-in-progress: false
+jobs:
+  import-videos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Import public YouTube metadata
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: node import-youtube.js
+      - name: Commit updated video catalog
+        run: |
+          if git diff --quiet -- videos.json; then
+            echo 'No video changes'
+            exit 0
+          fi
+          git config user.name 'vicewire-import-bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add videos.json
+          git commit -m 'Update GTA 6 video feed [automated]'
+          git push

@@ -1,1 +1,24 @@
-[]
+[
+    {
+        "id":  "PYBfQZXFkYY",
+        "platform":  "YouTube",
+        "url":  "https://www.youtube.com/watch?v=PYBfQZXFkYY",
+        "title":  "GTA 6 is Finally Here! (100% SPOILER FREE Gameplay)",
+        "creator":  "Hazard",
+        "summary":  "",
+        "category":  "Gameplay",
+        "spoiler":  false,
+        "createdAt":  "2026-11-18T13:50:39.939Z"
+    },
+    {
+        "id":  "BQvC8KDhgqw",
+        "platform":  "YouTube",
+        "url":  "https://www.youtube.com/watch?v=BQvC8KDhgqw",
+        "title":  "GTA 6: EVERYTHING We Know So Far... (The ULTIMATE Breakdown)",
+        "creator":  "Hazard",
+        "summary":  "",
+        "category":  "Review",
+        "spoiler":  true,
+        "createdAt":  "2026-11-18T13:49:29.867Z"
+    }
+]

@@ -4,3 +4,4 @@ node_modules/
 *.log
 security-backup-*/
 *.secure-tmp
+*.backup.json
