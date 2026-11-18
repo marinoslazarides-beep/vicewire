@@ -1,6 +1,737 @@
 [
   {
     "platform": "YouTube",
+    "id": "GBqgTl5nAbk",
+    "url": "https://www.youtube.com/watch?v=GBqgTl5nAbk",
+    "title": "O GTA 6 QUEBROU MAIS UM RECORDE! QUE ABSURDO",
+    "creator": "Icro",
+    "category": "Review",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:33:00Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 152,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "9pxgukk9G1M",
+    "url": "https://www.youtube.com/watch?v=9pxgukk9G1M",
+    "title": "GTA 6 reviews are in: 99 on Metacritic",
+    "creator": "LeonidaBreaking",
+    "category": "Review",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:16:36Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 152,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "Sm2EbvTjjP4",
+    "url": "https://www.youtube.com/watch?v=Sm2EbvTjjP4",
+    "title": "GTA 6 Review",
+    "creator": "Unfit Gamer",
+    "category": "Review",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T13:56:33Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 290,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "6am6bEnVGfE",
+    "url": "https://www.youtube.com/watch?v=6am6bEnVGfE",
+    "title": "Peanut&#39;s Honest GTA 6 Review",
+    "creator": "DailyDoseOfTheBurntPeanut",
+    "category": "Review",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T13:51:58Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 225,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "f6CCwFt78ls",
+    "url": "https://www.youtube.com/watch?v=f6CCwFt78ls",
+    "title": "GTA 6 Reviews Just Dropped: 99 on Metacritic",
+    "creator": "Wanted Level Report",
+    "category": "Review",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T13:50:51Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 148,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "Mp_BFvX2jsc",
+    "url": "https://www.youtube.com/watch?v=Mp_BFvX2jsc",
+    "title": "A nota REAL do GTA 6 saiu 99! (maior da história da série)",
+    "creator": "MatdoomGTA",
+    "category": "Review",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T13:50:42Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 153,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "AvwX1QhhdG4",
+    "url": "https://www.youtube.com/watch?v=AvwX1QhhdG4",
+    "title": "GTA 6 Reviews sind zu heftig",
+    "creator": "Jimi",
+    "category": "Review",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T13:49:22Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 285,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "k2LRGifeRLQ",
+    "url": "https://www.youtube.com/watch?v=k2LRGifeRLQ",
+    "title": "GTA VI Review Round.up no spoilers #gta6  #gtavi  #gta6review  #grandtheftauto6  #shorts",
+    "creator": "MDnews",
+    "category": "Review",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T13:25:37Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 191,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "ITDQ7AiRwH0",
+    "url": "https://www.youtube.com/watch?v=ITDQ7AiRwH0",
+    "title": "GTA 6 Got a 99… But the Reviews Admit This",
+    "creator": "binkozyy",
+    "category": "Review",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T13:15:24Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 297,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "_hsOQnAT36s",
+    "url": "https://www.youtube.com/watch?v=_hsOQnAT36s",
+    "title": "GTA 6 REVIEWS ARE INSANE!!! 🤯 #gta6 #gta6release  #gta6review #gaming #gamingshorts #gta6leaks #gta",
+    "creator": "Grand Theft Manual",
+    "category": "Review",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T13:07:14Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 400,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "R2eOnfqUIRE",
+    "url": "https://www.youtube.com/watch?v=R2eOnfqUIRE",
+    "title": "GTA 6 Reviews Are ABSOLUTELY INSANE 🔥 #gta6 #gta6live #hindigaming",
+    "creator": "PlanetX Gaming",
+    "category": "Review",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T13:02:05Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 964,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "gO9GKEr6qB0",
+    "url": "https://www.youtube.com/watch?v=gO9GKEr6qB0",
+    "title": "GTA 6 gets ‘near perfect’ reviews on launch",
+    "creator": "BBC News",
+    "category": "Review",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T13:02:52Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 5395,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "__geGTZJdK4",
+    "url": "https://www.youtube.com/watch?v=__geGTZJdK4",
+    "title": "🚨 FINALLY GTA 6 GAMEPLAY LIVE!! TAMIL 😱🔥 | FIRST LOOK &amp; CRAZY MOMENTS | GT KING",
+    "creator": "Gaming Tamizhan",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:34:40Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 90193,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "vRU45jYUpL4",
+    "url": "https://www.youtube.com/watch?v=vRU45jYUpL4",
+    "title": "GTA 6 CHEGOUUUUU! BISTECONE AO VIVO 🔴🔴",
+    "creator": "Bistecone",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:29:39Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 483832,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "NT8-iHjwCu8",
+    "url": "https://www.youtube.com/watch?v=NT8-iHjwCu8",
+    "title": "INTERRUPT or MANDY? 👀 GTA 6 #gta6 #gameplay",
+    "creator": "Wasted Cinema",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:28:36Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 319,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "Yo8pG9Ci-bs",
+    "url": "https://www.youtube.com/watch?v=Yo8pG9Ci-bs",
+    "title": "GTA 6 DÜNYANIN EN İYİ OYUNU!!!",
+    "creator": "Hyranox",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:28:32Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 255,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "paCKfX7I0BE",
+    "url": "https://www.youtube.com/watch?v=paCKfX7I0BE",
+    "title": "vai ter criança no gta6 #gta6 #gameplay #jogos #gta",
+    "creator": "historinhas legais",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:15:04Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 202,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "ko7yA-sMGRY",
+    "url": "https://www.youtube.com/watch?v=ko7yA-sMGRY",
+    "title": "GTA 6 ist viel zu krass #gta6 #gameplay #grandtheftauto6 #rohat #rohatclips #reaktion #reactions #fy",
+    "creator": "NextGenClips",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:11:48Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 386,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "ieHIwixSKdU",
+    "url": "https://www.youtube.com/watch?v=ieHIwixSKdU",
+    "title": "GTA 6 NO XBOX SERIES S",
+    "creator": "MitoGouken",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:09:40Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 162371,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "fkXgQJbj8IE",
+    "url": "https://www.youtube.com/watch?v=fkXgQJbj8IE",
+    "title": "World’s First Stolen Plane in GTA 6",
+    "creator": "Typical Gamer",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:09:31Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 7409,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "Ac2dr_txOvs",
+    "url": "https://www.youtube.com/watch?v=Ac2dr_txOvs",
+    "title": "FINALMENTE UMA GAMEPLAY OFICIAL DE GTA 6 !!! #gta6 #gta #shorts #foryou #gameplay",
+    "creator": "Lil SK Oficial",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:05:46Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 240,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "4B7tNsifWBc",
+    "url": "https://www.youtube.com/watch?v=4B7tNsifWBc",
+    "title": "GTA 6 Gameplay...I LOVE IT! #GTA6 #GAMEPLAY #nospoiler #gtavi  #rockstargames",
+    "creator": "Lewis Wright",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:00:04Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 225,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "4-R49-w6oUs",
+    "url": "https://www.youtube.com/watch?v=4-R49-w6oUs",
+    "title": "7 Dinge in GTA 6 ganz ohne Verbrechen #gta6  #gameplay  #vicecity",
+    "creator": "PixelonHD",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:00:04Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 251,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "RhrYvaAXkZ4",
+    "url": "https://www.youtube.com/watch?v=RhrYvaAXkZ4",
+    "title": "I Show Speed Playing GTA 6 |  #gta6 #gameplay #gaming #gtavi",
+    "creator": "AnkX Gaming",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:00:32Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 176,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "l0-QYNmzzh8",
+    "url": "https://www.youtube.com/watch?v=l0-QYNmzzh8",
+    "title": "Mythpat&#39;s Reaction On GTA 6 ! #Mythpat #reaction #gta6 #GTA6 #mythpatgaming #reactionvideo #gtamemes",
+    "creator": "Shubhuux2",
+    "category": "Reaction",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:23:30Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 159,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "14l1zSSs20I",
+    "url": "https://www.youtube.com/watch?v=14l1zSSs20I",
+    "title": "Ranking Best Of GTA 6 Reactions😂🥶 #fyp  #gta6reactions #ranking   #viral",
+    "creator": "Vortex",
+    "category": "Reaction",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:19:53Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 106,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "QJF2UdcshEE",
+    "url": "https://www.youtube.com/watch?v=QJF2UdcshEE",
+    "title": "Первый геймплей GTA 6! 😱ОН НЕ ВЕРИТ!  #gta6 #reaction #coffi #gta #новозеландия",
+    "creator": "GTA 6 РЕАКЦИИ",
+    "category": "Reaction",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:08:37Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 234,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "n5m3UWrYpRE",
+    "url": "https://www.youtube.com/watch?v=n5m3UWrYpRE",
+    "title": "Ishowspeed GTA6 reaction #clippodaclips #ishowspeed #gta6",
+    "creator": "Clippoda",
+    "category": "Reaction",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:04:32Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 118,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "1oy9h0-5tQ8",
+    "url": "https://www.youtube.com/watch?v=1oy9h0-5tQ8",
+    "title": "GTA 6 STRIP CLUB IS CRAZY...  #shorts #gta #gta6 #grandtheftauto #fyp #reaction #playstation #xbox",
+    "creator": "Chris Chem",
+    "category": "Reaction",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:05:25Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 3159,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "zdWcMscgZE0",
+    "url": "https://www.youtube.com/watch?v=zdWcMscgZE0",
+    "title": "IShowSpeed Finds JASON in GTA 6! (REACTION)  IShowSpeed discovers Jason during his first GTA 6 strea",
+    "creator": "Miguel Álvarez",
+    "category": "Reaction",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T13:51:54Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 112,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "wuFhQ4DWjxM",
+    "url": "https://www.youtube.com/watch?v=wuFhQ4DWjxM",
+    "title": "Kai Cenat, IShowSpeed &amp; xQc React to the GTA 6 Launch Trailer – In Sync 🌴🔥",
+    "creator": "Bill’s Cut",
+    "category": "Reaction",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T13:30:38Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 330,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "9b8sgQ5cutg",
+    "url": "https://www.youtube.com/watch?v=9b8sgQ5cutg",
+    "title": "Lacy&#39;s FIRST GTA 6 Reaction After 13 YEARS! 😭🔥 #gta6",
+    "creator": "ViceMayhem",
+    "category": "Reaction",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T13:00:25Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 714,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "-APS0AQoxgA",
+    "url": "https://www.youtube.com/watch?v=-APS0AQoxgA",
+    "title": "GTA6: Dürfen Christen das spielen? #gta6 #reaction",
+    "creator": "seelenretterINFO",
+    "category": "Reaction",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T13:00:24Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 1151,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "nA0EJysfWrc",
+    "url": "https://www.youtube.com/watch?v=nA0EJysfWrc",
+    "title": "Смешной момент в GTA6 #gta6 #reaction #t2x2",
+    "creator": "VEXORA  VI",
+    "category": "Reaction",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T12:57:19Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 439,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "tMhL5i8drQU",
+    "url": "https://www.youtube.com/watch?v=tMhL5i8drQU",
+    "title": "👠 в GTA6 #reaction #t2x2 #gta6",
+    "creator": "VEXORA  VI",
+    "category": "Reaction",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T12:56:18Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 540,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "7hiMhcYb9Bc",
+    "url": "https://www.youtube.com/watch?v=7hiMhcYb9Bc",
+    "title": "Streamers REACT to GTA 6 for the First Time! 😱 #shorts #gta #gta6 #gaming",
+    "creator": "ViralClips",
+    "category": "Reaction",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T12:52:43Z",
+    "source": "youtube-api",
+    "isLive": false,
+    "viewCount": 384,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "ZYX4GaZvrW0",
+    "url": "https://www.youtube.com/watch?v=ZYX4GaZvrW0",
+    "title": "GTA 6 LIVESTREAM WIT SOULJA BOY",
+    "creator": "Jockdastrappa",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:30:41Z",
+    "source": "youtube-api",
+    "isLive": true,
+    "viewCount": 0,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
+  },
+  {
+    "platform": "YouTube",
+    "id": "MqzyygCl1J8",
+    "url": "https://www.youtube.com/watch?v=MqzyygCl1J8",
+    "title": "Gta 6 Live stream 😱 #indianbikesdriving3dlive #shortsfeed #shorts #gta6",
+    "creator": "GURJAR FF",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:27:49Z",
+    "source": "youtube-api",
+    "isLive": true,
+    "viewCount": 2144,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
+    "concurrentViewers": 350
+  },
+  {
+    "platform": "YouTube",
+    "id": "LYkmbnQT4JE",
+    "url": "https://www.youtube.com/watch?v=LYkmbnQT4JE",
+    "title": "GTA 6 um 0 Uhr!!! / EA FC 27 Livestream / Webcam #gaming #gameplay #eafc27",
+    "creator": "HeyToom",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:12:19Z",
+    "source": "youtube-api",
+    "isLive": true,
+    "viewCount": 11,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
+    "concurrentViewers": 4
+  },
+  {
+    "platform": "YouTube",
+    "id": "hZ5Zm3-Ozps",
+    "url": "https://www.youtube.com/watch?v=hZ5Zm3-Ozps",
+    "title": "🔴 GTA 6 LIVE GAMEPLAY 🔥 | Grand Theft Auto VI Live Stream | Insane Open World Adventure!",
+    "creator": "Hungry Tales",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T14:12:10Z",
+    "source": "youtube-api",
+    "isLive": true,
+    "viewCount": 21,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
+    "concurrentViewers": 2
+  },
+  {
+    "platform": "YouTube",
+    "id": "ga_1QL08fYs",
+    "url": "https://www.youtube.com/watch?v=ga_1QL08fYs",
+    "title": "GTA 6 Malayalam Live stream 2K | Grand Theft Auto VI |  #gta6  #malayalam #live 18 +",
+    "creator": "PAMBU VELAYUDHAN",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T13:07:25Z",
+    "source": "youtube-api",
+    "isLive": true,
+    "viewCount": 190,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
+    "concurrentViewers": 2
+  },
+  {
+    "platform": "YouTube",
+    "id": "9RC1Lc5OQ9w",
+    "url": "https://www.youtube.com/watch?v=9RC1Lc5OQ9w",
+    "title": "GTA 6 LIVE STREAM AT 12AM!| Grand Theft Auto 5  | Gaming4You",
+    "creator": "Gaming4You",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T13:05:46Z",
+    "source": "youtube-api",
+    "isLive": true,
+    "viewCount": 62,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
+    "concurrentViewers": 2
+  },
+  {
+    "platform": "YouTube",
+    "id": "pkUv0dEmDas",
+    "url": "https://www.youtube.com/watch?v=pkUv0dEmDas",
+    "title": "GTA VI IS FINALLY HERE - NPCs have no idea what&#39;s coming for them... LIVE",
+    "creator": "Raging Crow",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T13:00:36Z",
+    "source": "youtube-api",
+    "isLive": true,
+    "viewCount": 451,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
+    "concurrentViewers": 37
+  },
+  {
+    "platform": "YouTube",
+    "id": "TkcUvIFv_-E",
+    "url": "https://www.youtube.com/watch?v=TkcUvIFv_-E",
+    "title": "BESTES SPIEL ALLER ZEITEN !? GTA 6 Livestream Ps5 Pro Gameplay",
+    "creator": "Kartoffel König",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T12:58:03Z",
+    "source": "youtube-api",
+    "isLive": true,
+    "viewCount": 2492,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
+    "concurrentViewers": 338
+  },
+  {
+    "platform": "YouTube",
+    "id": "k9lPwt_KT6c",
+    "url": "https://www.youtube.com/watch?v=k9lPwt_KT6c",
+    "title": "18+ GTA 6 Livestream | Grand Theft Auto VI | Malayalam Livestream",
+    "creator": "OgLeviathan",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T12:58:20Z",
+    "source": "youtube-api",
+    "isLive": true,
+    "viewCount": 330,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
+    "concurrentViewers": 5
+  },
+  {
+    "platform": "YouTube",
+    "id": "FU4FGiIiORk",
+    "url": "https://www.youtube.com/watch?v=FU4FGiIiORk",
+    "title": "GTA 6 Livestream  #verticallive #verticle #shortfeed",
+    "creator": "Manpreet Dhillon Live",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T12:57:03Z",
+    "source": "youtube-api",
+    "isLive": true,
+    "viewCount": 77,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
+    "concurrentViewers": 1
+  },
+  {
+    "platform": "YouTube",
+    "id": "dBl4s9aG4sk",
+    "url": "https://www.youtube.com/watch?v=dBl4s9aG4sk",
+    "title": "GTA 6 First Livestream | Welcome To Vice City | Day 1",
+    "creator": "Manpreet Dhillon Live",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T12:54:47Z",
+    "source": "youtube-api",
+    "isLive": true,
+    "viewCount": 345,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
+    "concurrentViewers": 8
+  },
+  {
+    "platform": "YouTube",
+    "id": "XdETCc-Xa58",
+    "url": "https://www.youtube.com/watch?v=XdETCc-Xa58",
+    "title": "🔥 WELCOME TO THE GTA 6 FIRST REACTION LIVE STREAM! 🔥#gta6 #ps5 #gta6live",
+    "creator": "Legendary gaming tech",
+    "category": "Gameplay",
+    "spoiler": true,
+    "summary": "",
+    "createdAt": "2026-11-18T12:39:19Z",
+    "source": "youtube-api",
+    "isLive": true,
+    "viewCount": 256,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
+    "concurrentViewers": 1
+  },
+  {
+    "platform": "YouTube",
     "id": "omSD9whd5Zg",
     "url": "https://www.youtube.com/watch?v=omSD9whd5Zg",
     "title": "GTA 6 - First Visuals &amp; Reviews - N0 Spoilers!",
@@ -11,8 +742,8 @@
     "createdAt": "2026-11-18T14:00:10Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 283,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 290,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -26,8 +757,8 @@
     "createdAt": "2026-11-18T14:00:21Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 13,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 14,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -41,8 +772,8 @@
     "createdAt": "2026-11-18T14:00:20Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 419,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 433,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -57,7 +788,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 2,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -72,7 +803,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 37033,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -87,7 +818,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -101,8 +832,8 @@
     "createdAt": "2026-11-18T13:30:10Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 212,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 215,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -117,7 +848,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 107623,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -132,7 +863,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 5,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -146,8 +877,8 @@
     "createdAt": "2026-11-18T13:25:03Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1667,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 1714,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -162,7 +893,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 52,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -176,8 +907,8 @@
     "createdAt": "2026-11-18T13:09:01Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 773,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 780,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -192,7 +923,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 11342,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -206,8 +937,8 @@
     "createdAt": "2026-11-18T13:50:09Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 5005,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 5111,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -221,8 +952,8 @@
     "createdAt": "2026-11-18T13:47:48Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 529,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 530,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -236,8 +967,8 @@
     "createdAt": "2026-11-18T13:42:35Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1193,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 1207,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -251,8 +982,8 @@
     "createdAt": "2026-11-18T13:39:09Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 47101,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 48366,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -279,8 +1010,8 @@
     "createdAt": "2026-11-18T13:29:52Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 606,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 620,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -294,8 +1025,8 @@
     "createdAt": "2026-11-18T13:31:31Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1156,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 1167,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -309,8 +1040,8 @@
     "createdAt": "2026-11-18T13:28:35Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 407,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 425,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -324,8 +1055,8 @@
     "createdAt": "2026-11-18T13:27:19Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 451,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 467,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -339,8 +1070,8 @@
     "createdAt": "2026-11-18T13:25:07Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 164,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 165,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -354,8 +1085,8 @@
     "createdAt": "2026-11-18T13:23:05Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 364,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 372,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -369,8 +1100,8 @@
     "createdAt": "2026-11-18T13:57:23Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 0,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 2,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -384,8 +1115,8 @@
     "createdAt": "2026-11-18T13:56:53Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 414,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 429,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -399,8 +1130,8 @@
     "createdAt": "2026-11-18T13:54:32Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 406,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 415,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -415,7 +1146,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 223,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -430,7 +1161,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -444,8 +1175,8 @@
     "createdAt": "2026-11-18T13:37:09Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 271,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 272,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -459,8 +1190,8 @@
     "createdAt": "2026-11-18T13:35:14Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 411,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 417,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -475,7 +1206,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -489,8 +1220,8 @@
     "createdAt": "2026-11-18T13:25:57Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 584,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 591,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -505,7 +1236,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -519,8 +1250,8 @@
     "createdAt": "2026-11-18T13:11:34Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 572,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 574,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -535,7 +1266,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 248,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -550,7 +1281,7 @@
     "source": "youtube-api",
     "isLive": true,
     "viewCount": 4,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -564,9 +1295,9 @@
     "createdAt": "2026-11-18T13:57:05Z",
     "source": "youtube-api",
     "isLive": true,
-    "viewCount": 3921,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z",
-    "concurrentViewers": 839
+    "viewCount": 3966,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
+    "concurrentViewers": 852
   },
   {
     "platform": "YouTube",
@@ -580,8 +1311,9 @@
     "createdAt": "2026-11-18T13:48:31Z",
     "source": "youtube-api",
     "isLive": true,
-    "viewCount": 186,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "viewCount": 188,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
+    "concurrentViewers": 3
   },
   {
     "platform": "YouTube",
@@ -596,7 +1328,7 @@
     "source": "youtube-api",
     "isLive": true,
     "viewCount": 8,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z",
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
     "concurrentViewers": 3
   },
   {
@@ -612,7 +1344,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 3,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "platform": "YouTube",
@@ -627,8 +1359,8 @@
     "source": "youtube-api",
     "isLive": true,
     "viewCount": 3591,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z",
-    "concurrentViewers": 7
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
+    "concurrentViewers": 5
   },
   {
     "platform": "YouTube",
@@ -643,7 +1375,7 @@
     "source": "youtube-api",
     "isLive": true,
     "viewCount": 32,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z",
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
     "concurrentViewers": 2
   },
   {
@@ -659,7 +1391,7 @@
     "source": "youtube-api",
     "isLive": true,
     "viewCount": 21,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z",
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
     "concurrentViewers": 1
   },
   {
@@ -675,8 +1407,8 @@
     "source": "youtube-api",
     "isLive": true,
     "viewCount": 136,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z",
-    "concurrentViewers": 10
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
+    "concurrentViewers": 11
   },
   {
     "platform": "YouTube",
@@ -690,9 +1422,9 @@
     "createdAt": "2026-11-18T13:04:33Z",
     "source": "youtube-api",
     "isLive": true,
-    "viewCount": 5083,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z",
-    "concurrentViewers": 672
+    "viewCount": 5106,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
+    "concurrentViewers": 554
   },
   {
     "platform": "YouTube",
@@ -706,8 +1438,8 @@
     "createdAt": "2026-11-18T13:02:20Z",
     "source": "youtube-api",
     "isLive": true,
-    "viewCount": 307,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z",
+    "viewCount": 308,
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
     "concurrentViewers": 10
   },
   {
@@ -723,7 +1455,7 @@
     "source": "youtube-api",
     "isLive": true,
     "viewCount": 1,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   },
   {
     "id": "PYBfQZXFkYY",
@@ -737,8 +1469,8 @@
     "createdAt": "2026-11-18T13:50:39.939Z",
     "viewCount": 73428,
     "isLive": true,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z",
-    "concurrentViewers": 3980
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z",
+    "concurrentViewers": 4117
   },
   {
     "id": "BQvC8KDhgqw",
@@ -750,8 +1482,8 @@
     "category": "Review",
     "spoiler": true,
     "createdAt": "2026-11-18T13:49:29.867Z",
-    "viewCount": 581749,
+    "viewCount": 581752,
     "isLive": false,
-    "liveCheckedAt": "2026-11-18T14:40:44.605Z"
+    "liveCheckedAt": "2026-11-18T14:42:17.425Z"
   }
 ]
