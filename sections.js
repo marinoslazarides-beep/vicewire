@@ -64,7 +64,7 @@ render = function () {
     const v=visible[i]; if(!v)return;
     const label=card.querySelector('.details .muted');
     if(label && vicewireView==='popular') label.textContent += ' | '+Number(v.viewCount).toLocaleString()+' views';
-    if(label && vicewireView==='live') label.textContent += ' Â· LIVE (recently verified)';
+    if(label && vicewireView==='live') label.textContent += ' | LIVE (recently verified)';
   });
   if(vicewireView==='live' && !visible.length) el('feed').textContent='No recently verified live GTA 6 streams. Try Newest or Most Watched.';
   if(vicewireView==='popular' && !subset.length) el('feed').textContent='View counts are being collected. Run the metadata refresh workflow first.';
