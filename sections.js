@@ -8,9 +8,9 @@ tabArea.className = 'video-tabs';
 tabArea.setAttribute('role','group');
 tabArea.setAttribute('aria-label','Choose a video collection');
 const tabs = [
-  {id:'live', text:'ðŸ”´ Live Now'},
-  {id:'popular', text:'ðŸ”¥ Most Watched'},
-  {id:'newest', text:'ðŸ•’ Newest'}
+  {id:'live', text:'LIVE NOW'},
+  {id:'popular', text:'MOST WATCHED'},
+  {id:'newest', text:'NEWEST'}
 ];
 const tabButtons = new Map();
 for (const tab of tabs) {
@@ -63,7 +63,7 @@ render = function () {
   document.querySelectorAll('#feed .card').forEach((card,i)=>{
     const v=visible[i]; if(!v)return;
     const label=card.querySelector('.details .muted');
-    if(label && vicewireView==='popular') label.textContent += ' Â· '+Number(v.viewCount).toLocaleString()+' views';
+    if(label && vicewireView==='popular') label.textContent += ' | '+Number(v.viewCount).toLocaleString()+' views';
     if(label && vicewireView==='live') label.textContent += ' Â· LIVE (recently verified)';
   });
   if(vicewireView==='live' && !visible.length) el('feed').textContent='No recently verified live GTA 6 streams. Try Newest or Most Watched.';
