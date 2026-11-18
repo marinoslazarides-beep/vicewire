@@ -27,7 +27,7 @@ if (!production && !ADMIN_PASSWORD) console.warn('Admin login disabled: set ADMI
 const sessions = new Map();
 const limits = new Map();
 const SESSION_MS = 8 * 60 * 60 * 1000;
-const MIME = {'/':'text/html; charset=utf-8','/index.html':'text/html; charset=utf-8','/app.js':'application/javascript; charset=utf-8','/style.css':'text/css; charset=utf-8','/sections.js':'application/javascript; charset=utf-8','/sections.css':'text/css; charset=utf-8'};
+const MIME = {'/sitemap.xml':'application/xml; charset=utf-8','/robots.txt':'text/plain; charset=utf-8','/':'text/html; charset=utf-8','/index.html':'text/html; charset=utf-8','/app.js':'application/javascript; charset=utf-8','/style.css':'text/css; charset=utf-8','/sections.js':'application/javascript; charset=utf-8','/sections.css':'text/css; charset=utf-8'};
 
 function rateLimit(req, bucket, max, periodMs) {
   const key = req.socket.remoteAddress + ':' + bucket;
