@@ -3,8 +3,45 @@ let videos=[],csrf=null,savedOnly=false,saved=[];
 try{saved=JSON.parse(localStorage.getItem('vicewire_saved')||'[]')}catch{saved=[]}
 const el=id=>document.getElementById(id);
 async function jsonFetch(url, options){const r=await fetch(url,{credentials:'same-origin',...options});const body=await r.json();if(!r.ok)throw Error(body.error||'Request failed');return body}
-async function load(){videos=await jsonFetch('/api/videos');render()}
+async function load(){videos=await jsonFetch('/api/videos');render();renderCreators()}
 function element(tag,className,text){const e=document.createElement(tag);if(className)e.className=className;if(text!==undefined)e.textContent=text;return e}
+function renderCreators(){
+  const list=document.getElementById('creatorList');
+  if(!list)return;
+
+  const creators=new Map();
+
+  for(const v of videos){
+    if(v.platform!=='YouTube' || !v.creator)continue;
+    const name=v.creator.trim();
+    if(!name)continue;
+    const key=name.toLowerCase();
+    if(!creators.has(key)){
+      creators.set(key,{name,count:0});
+    }
+    creators.get(key).count++;
+  }
+
+  list.replaceChildren();
+
+  const sorted=[...creators.values()]
+    .sort((a,b)=>b.count-a.count || a.name.localeCompare(b.name));
+
+  for(const c of sorted){
+    const link=document.createElement('a');
+    link.className='creator-tile';
+    link.href='/creator/'+encodeURIComponent(c.name);
+
+    const title=document.createElement('strong');
+    title.textContent=c.name;
+
+    const count=document.createElement('span');
+    count.textContent=c.count+' videos';
+
+    link.append(title,count);
+    list.append(link);
+  }
+}
 function render(){
  const query=el('search').value.toLowerCase(),category=el('category').value,platform=el('platform').value,spoilerFree=el('safe').checked;
  const filtered=videos.filter(v=>(!query||(v.title+' '+v.creator+' '+(v.summary||'')).toLowerCase().includes(query))&&(!category||v.category===category)&&(!platform||v.platform===platform)&&(!spoilerFree||!v.spoiler)&&(!savedOnly||saved.includes(v.url)));
