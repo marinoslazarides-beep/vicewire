@@ -186,6 +186,18 @@ const server=http.createServer(async(req,res)=>{
       videos.unshift(video); saveVideos(videos);
       return json(res,201,video);
     }
+    if (req.method === 'GET' &&
+    (pathname === '/sitemap.xml' || pathname === '/robots.txt')) {
+  const isXml = pathname === '/sitemap.xml';
+  const filename = isXml ? 'sitemap.xml' : 'robots.txt';
+  const data = fs.readFileSync(path.join(__dirname, filename));
+  res.writeHead(200, {
+    'Content-Type': isXml
+      ? 'application/xml; charset=utf-8'
+      : 'text/plain; charset=utf-8'
+  });
+  return res.end(data);
+}
     if(req.method==='GET' && MIME[pathname]) {
       const file=pathname==='/'?'/index.html':pathname;
       const content=fs.readFileSync(path.join(__dirname,file));
