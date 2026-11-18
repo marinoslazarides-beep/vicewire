@@ -3,7 +3,7 @@ let videos=[],csrf=null,savedOnly=false,saved=[];
 try{saved=JSON.parse(localStorage.getItem('vicewire_saved')||'[]')}catch{saved=[]}
 const el=id=>document.getElementById(id);
 async function jsonFetch(url, options){const r=await fetch(url,{credentials:'same-origin',...options});const body=await r.json();if(!r.ok)throw Error(body.error||'Request failed');return body}
-async function load(){videos=await jsonFetch('/api/videos');render();renderCreators()}
+async function load(){videos=await jsonFetch('/api/videos');render();renderCreators();el('feed').classList.remove('is-loading')}
 function element(tag,className,text){const e=document.createElement(tag);if(className)e.className=className;if(text!==undefined)e.textContent=text;return e}
 function renderCreators(){
   const list=document.getElementById('creatorList');

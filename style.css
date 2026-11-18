@@ -131,3 +131,31 @@ header {
     gap: 10px;
   }
 }
+/* NEON MOBILE LAYOUT STABILITY */
+
+/* Allocate room for the initial video cards */
+#feed.is-loading {
+  min-height: 620px;
+}
+
+/* Do not expose the footer while videos load */
+body:has(#feed.is-loading) footer {
+  visibility: hidden;
+}
+
+/* Keep thumbnails at predictable dimensions */
+#feed .thumb {
+  aspect-ratio: 16 / 9;
+}
+
+#feed .thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media (max-width: 700px) {
+  #feed.is-loading {
+    min-height: 720px;
+  }
+}
