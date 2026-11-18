@@ -45,7 +45,7 @@ function sitemap(res) {
     .sort((a,b) => a.name.localeCompare(b.name))
     .slice(0,500);
 
-  const urls = [BASE + '/', ...groups.map(g => BASE + creatorUrl(g.name))];
+  const urls = [BASE + '/', BASE + '/creators', ...groups.map(g => BASE + creatorUrl(g.name))];
 
   const xml = '<?xml version="1.0" encoding="UTF-8"?>\n' +
     '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
@@ -150,8 +150,90 @@ function creatorPage(res, pathname) {
   res.end(html);
 }
 
+function creatorDirectory(res) {
+  const groups = [...creatorGroups().values()]
+    .sort((a,b) =>
+      b.videos.length - a.videos.length ||
+      a.name.localeCompare(b.name)
+    );
+
+  const cards = groups.map(group => {
+    const name = escapeHtml(group.name);
+    const count = group.videos.length;
+    const url = creatorUrl(group.name);
+
+    return `<a class="creator-tile" href="${escapeHtml(url)}">
+      <strong>${name}</strong>
+      <span>${count} ${count === 1 ? 'video' : 'videos'}</span>
+    </a>`;
+  }).join('\n');
+
+  const html = `<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GTA 6 YouTube Creators | VICEWIRE</title>
+<meta name="description" content="Discover GTA 6 YouTube creators, videos, livestreams and reviews on VICEWIRE.">
+<link rel="canonical" href="${BASE}/creators">
+<link rel="stylesheet" href="/style.css">
+<style>
+.creator-list {
+ display:grid;
+ grid-template-columns:repeat(auto-fill,minmax(200px,1fr));
+ gap:14px;
+ margin:25px 0;
+}
+.creator-tile {
+ display:flex;
+ flex-direction:column;
+ gap:9px;
+ background:#262132;
+ color:white;
+ padding:18px;
+ border:1px solid #40374b;
+ border-radius:12px;
+ text-decoration:none;
+ overflow-wrap:anywhere;
+}
+.creator-tile:hover {
+ border-color:#fb4eac;
+}
+.creator-tile span {
+ color:#b9afc1;
+ font-size:13px;
+}
+</style>
+</head>
+<body>
+<header>
+<strong>VICE<span>WIRE</span></strong>
+<nav><a href="/">Back to VICEWIRE</a></nav>
+</header>
+<main>
+<section class="hero">
+<p class="eyebrow">THE GTA 6 COMMUNITY</p>
+<h1>DISCOVER <em>CREATORS.</em></h1>
+<p>Explore YouTubers featured on VICEWIRE.</p>
+<p>${groups.length} creators listed</p>
+</section>
+<div class="creator-list">${cards}</div>
+</main>
+<footer>VICEWIRE - Independent GTA 6 discovery.</footer>
+</body>
+</html>`;
+
+  res.writeHead(200, {
+    'Content-Type':'text/html; charset=utf-8'
+  });
+  res.end(html);
+}
 function handle(req,res,pathname) {
   if (req.method !== 'GET') return false;
+  if (pathname === '/creators') {
+    creatorDirectory(res);
+    return true;
+  }
   if (pathname === '/sitemap.xml') {
     sitemap(res);
     return true;
