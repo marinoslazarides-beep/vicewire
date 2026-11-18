@@ -125,10 +125,50 @@ function creatorPage(res, pathname) {
 <meta name="robots" content="${items.length >= 2 ? 'index,follow' : 'noindex,follow'}">
 <link rel="canonical" href="${escapeHtml(canonical)}">
 <link rel="stylesheet" href="/style.css">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMDBmNWY1Ii8+CjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmNDVhYSIvPgo8L2xpbmVhckdyYWRpZW50Pgo8L2RlZnM+CjxyZWN0IHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgcng9IjE1IiBmaWxsPSIjMTYwYjI1Ii8+CjxjaXJjbGUgY3g9IjMyIiBjeT0iMjUiIHI9IjE3IiBmaWxsPSIjZmY0NzljIi8+CjxwYXRoIGQ9Ik0xNSAzMCBINDkgTTE4IDI0IEg0NiIgc3Ryb2tlPSIjMTYwYjI1IiBzdHJva2Utd2lkdGg9IjMiLz4KPHBhdGggZD0iTTcgNTIgTDIwIDM2IEwzMiA1MSBMNDQgMzYgTDU3IDUyIgogICAgICBzdHJva2U9InVybCgjZykiIHN0cm9rZS13aWR0aD0iNSIgZmlsbD0ibm9uZSIvPgo8dGV4dCB4PSIzMiIgeT0iNjAiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtZmFtaWx5PSJBcmlhbCIKICAgICAgZm9udC13ZWlnaHQ9ImJvbGQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IndoaXRlIj5OQTwvdGV4dD4KPC9zdmc+">
 </head>
 <body>
 <header>
-<strong>NEON<span> AFTERHOURS GTA</span></strong>
+<a href="/" class="neon-brand" aria-label="Neon Afterhours GTA home">
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 640 110"
+     role="img"
+     aria-label="Neon Afterhours GTA">
+<defs>
+  <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#ffffff"/>
+    <stop offset="45%" stop-color="#82eeff"/>
+    <stop offset="100%" stop-color="#fa4fa9"/>
+  </linearGradient>
+  <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
+    <feGaussianBlur stdDeviation="2.5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+<rect x="4" y="4" width="632" height="102" rx="12"
+      fill="#100b20" fill-opacity=".45"/>
+<path d="M12 90 L110 15 H530 L628 90"
+      fill="none" stroke="#00ecf4"
+      stroke-width="3" opacity=".8"/>
+<text x="320" y="36" text-anchor="middle"
+      font-family="Arial,sans-serif"
+      font-weight="900" font-style="italic"
+      font-size="33" letter-spacing="5"
+      fill="#ff55b9" filter="url(#glow)">NEON</text>
+<text x="320" y="76" text-anchor="middle"
+      font-family="Arial,sans-serif"
+      font-weight="900" font-style="italic"
+      font-size="47" letter-spacing="1"
+      fill="url(#chrome)">AFTERHOURS</text>
+<text x="575" y="99" text-anchor="middle"
+      font-family="Arial,sans-serif"
+      font-weight="900" font-style="italic"
+      font-size="27" fill="#ff55b9">GTA</text>
+</svg>
+</a>
 <nav><a href="/">Back to all GTA 6 videos</a></nav>
 </header>
 <main>
@@ -204,10 +244,50 @@ function creatorDirectory(res) {
  font-size:13px;
 }
 </style>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMDBmNWY1Ii8+CjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmNDVhYSIvPgo8L2xpbmVhckdyYWRpZW50Pgo8L2RlZnM+CjxyZWN0IHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgcng9IjE1IiBmaWxsPSIjMTYwYjI1Ii8+CjxjaXJjbGUgY3g9IjMyIiBjeT0iMjUiIHI9IjE3IiBmaWxsPSIjZmY0NzljIi8+CjxwYXRoIGQ9Ik0xNSAzMCBINDkgTTE4IDI0IEg0NiIgc3Ryb2tlPSIjMTYwYjI1IiBzdHJva2Utd2lkdGg9IjMiLz4KPHBhdGggZD0iTTcgNTIgTDIwIDM2IEwzMiA1MSBMNDQgMzYgTDU3IDUyIgogICAgICBzdHJva2U9InVybCgjZykiIHN0cm9rZS13aWR0aD0iNSIgZmlsbD0ibm9uZSIvPgo8dGV4dCB4PSIzMiIgeT0iNjAiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtZmFtaWx5PSJBcmlhbCIKICAgICAgZm9udC13ZWlnaHQ9ImJvbGQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IndoaXRlIj5OQTwvdGV4dD4KPC9zdmc+">
 </head>
 <body>
 <header>
-<strong>NEON<span> AFTERHOURS GTA</span></strong>
+<a href="/" class="neon-brand" aria-label="Neon Afterhours GTA home">
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 640 110"
+     role="img"
+     aria-label="Neon Afterhours GTA">
+<defs>
+  <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#ffffff"/>
+    <stop offset="45%" stop-color="#82eeff"/>
+    <stop offset="100%" stop-color="#fa4fa9"/>
+  </linearGradient>
+  <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
+    <feGaussianBlur stdDeviation="2.5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+<rect x="4" y="4" width="632" height="102" rx="12"
+      fill="#100b20" fill-opacity=".45"/>
+<path d="M12 90 L110 15 H530 L628 90"
+      fill="none" stroke="#00ecf4"
+      stroke-width="3" opacity=".8"/>
+<text x="320" y="36" text-anchor="middle"
+      font-family="Arial,sans-serif"
+      font-weight="900" font-style="italic"
+      font-size="33" letter-spacing="5"
+      fill="#ff55b9" filter="url(#glow)">NEON</text>
+<text x="320" y="76" text-anchor="middle"
+      font-family="Arial,sans-serif"
+      font-weight="900" font-style="italic"
+      font-size="47" letter-spacing="1"
+      fill="url(#chrome)">AFTERHOURS</text>
+<text x="575" y="99" text-anchor="middle"
+      font-family="Arial,sans-serif"
+      font-weight="900" font-style="italic"
+      font-size="27" fill="#ff55b9">GTA</text>
+</svg>
+</a>
 <nav><a href="/">Back to Neon Afterhours GTA</a></nav>
 </header>
 <main>
