@@ -25,6 +25,8 @@ jobs:
           node import-youtube.js
           node youtube-metadata.js
       - name: Commit updated video catalog
+        env:
+          RENDER_DEPLOY_HOOK_URL: ${{ secrets.RENDER_DEPLOY_HOOK_URL }}
         run: |
           if git diff --quiet -- videos.json; then
             echo 'No video changes'
@@ -35,3 +37,10 @@ jobs:
           git add videos.json
           git commit -m 'Update GTA 6 video feed [automated]'
           git push
+          if [ -z "$RENDER_DEPLOY_HOOK_URL" ]; then
+            echo "::error::Render deploy hook secret is missing"
+            exit 1
+          fi
+          curl --fail --silent --show-error \
+            --retry 3 --retry-delay 5 \
+            --request POST "$RENDER_DEPLOY_HOOK_URL"
