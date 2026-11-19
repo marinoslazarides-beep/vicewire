@@ -18,6 +18,17 @@ const production = process.env.NODE_ENV === 'production';
 const PORT = Number(process.env.PORT || 3000);
 const HOST = production ? '0.0.0.0' : '127.0.0.1';
 const DATA_PATH = path.join(__dirname, 'videos.json');
+const TIKTOK_DATA_PATH = path.join(__dirname, 'curated-tiktok.json');
+
+function readCuratedTikToks() {
+  if (!fs.existsSync(TIKTOK_DATA_PATH)) return [];
+  const entries = JSON.parse(
+    fs.readFileSync(TIKTOK_DATA_PATH, 'utf8')
+  );
+  return Array.isArray(entries)
+    ? entries.filter(v => v && v.platform === 'TikTok')
+    : [];
+}
 const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || '';
 if (production && ADMIN_PASSWORD.length < 32) {
   console.error('Refusing production startup: set ADMIN_PASSWORD to a unique secret of at least 32 characters.');
@@ -144,7 +155,13 @@ const server=http.createServer(async(req,res)=>{
     if(!rateLimit(req,'general',600,5*60_000)) return json(res,429,{error:'Too many requests'});
     if(req.method==='GET' && pathname==='/api/health') return json(res,200,{ok:true});
     if(req.method==='GET' && pathname==='/api/videos') {
-      return json(res,200,readVideos().slice(0,2000));
+      const imported = readVideos();
+      const curated = readCuratedTikToks();
+      const known = new Set(imported.map(v => v.platform + ':' + v.id));
+      const combined = imported.concat(
+        curated.filter(v => !known.has(v.platform + ':' + v.id))
+      );
+      return json(res,200,combined.slice(0,2000));
     }
     if(req.method==='GET' && pathname==='/api/admin/session') {
       const session=authenticate(req);
