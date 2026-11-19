@@ -126,6 +126,142 @@ function creatorPage(res, pathname) {
 <link rel="canonical" href="${escapeHtml(canonical)}">
 <link rel="stylesheet" href="/style.css">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMDBmNWY1Ii8+CjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmNDVhYSIvPgo8L2xpbmVhckdyYWRpZW50Pgo8L2RlZnM+CjxyZWN0IHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgcng9IjE1IiBmaWxsPSIjMTYwYjI1Ii8+CjxjaXJjbGUgY3g9IjMyIiBjeT0iMjUiIHI9IjE3IiBmaWxsPSIjZmY0NzljIi8+CjxwYXRoIGQ9Ik0xNSAzMCBINDkgTTE4IDI0IEg0NiIgc3Ryb2tlPSIjMTYwYjI1IiBzdHJva2Utd2lkdGg9IjMiLz4KPHBhdGggZD0iTTcgNTIgTDIwIDM2IEwzMiA1MSBMNDQgMzYgTDU3IDUyIgogICAgICBzdHJva2U9InVybCgjZykiIHN0cm9rZS13aWR0aD0iNSIgZmlsbD0ibm9uZSIvPgo8dGV4dCB4PSIzMiIgeT0iNjAiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtZmFtaWx5PSJBcmlhbCIKICAgICAgZm9udC13ZWlnaHQ9ImJvbGQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IndoaXRlIj5OQTwvdGV4dD4KPC9zdmc+">
+<!-- NEON ANALYTICS CONSENT START -->
+<script>
+(function () {
+  "use strict";
+
+  var measurementId = "G-3V8LES7BB3";
+  var storageKey = "neon-afterhours-analytics-choice";
+  var loaded = false;
+
+  function readChoice() {
+    try { return localStorage.getItem(storageKey); }
+    catch (e) { return null; }
+  }
+
+  function saveChoice(value) {
+    try { localStorage.setItem(storageKey, value); }
+    catch (e) {}
+  }
+
+  function loadAnalytics() {
+    if (loaded) return;
+    loaded = true;
+
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () {
+      window.dataLayer.push(arguments);
+    };
+
+    window.gtag("js", new Date());
+    window.gtag("config", measurementId);
+
+    var script = document.createElement("script");
+    script.async = true;
+    script.src =
+      "https://www.googletagmanager.com/gtag/js?id=" +
+      encodeURIComponent(measurementId);
+
+    document.head.appendChild(script);
+  }
+
+  function showChoices() {
+    if (document.getElementById("neon-consent")) return;
+
+    var panel = document.createElement("div");
+    panel.id = "neon-consent";
+
+    panel.style.cssText =
+      "position:fixed;bottom:16px;left:16px;" +
+      "right:16px;max-width:520px;margin:auto;" +
+      "background:#170e2c;color:white;" +
+      "border:1px solid #ff58b5;border-radius:14px;" +
+      "padding:18px;z-index:2147483647;" +
+      "box-shadow:0 6px 30px #0009;" +
+      "font:14px/1.5 Arial,sans-serif;";
+
+    var message = document.createElement("p");
+    message.textContent =
+      "Neon Afterhours GTA uses optional Google Analytics " +
+      "to understand visits and improve the website. " +
+      "Allow analytics?";
+    message.style.margin = "0 0 12px";
+
+    function makeButton(label, background, choice) {
+      var button = document.createElement("button");
+      button.type = "button";
+      button.textContent = label;
+      button.style.cssText =
+        "background:" + background + ";" +
+        "color:white;border:0;border-radius:8px;" +
+        "padding:10px 16px;margin:4px;" +
+        "cursor:pointer;font-weight:bold;";
+
+      button.addEventListener("click", function () {
+        saveChoice(choice);
+        panel.remove();
+
+        if (choice === "accepted") {
+          loadAnalytics();
+        }
+      });
+
+      return button;
+    }
+
+    panel.appendChild(message);
+    panel.appendChild(
+      makeButton("Accept analytics", "#d42d91", "accepted")
+    );
+    panel.appendChild(
+      makeButton("Reject", "#465066", "rejected")
+    );
+
+    document.body.appendChild(panel);
+  }
+
+  function start() {
+    var choice = readChoice();
+
+    if (choice === "accepted") {
+      loadAnalytics();
+    } else if (choice !== "rejected") {
+      showChoices();
+    }
+
+    // Allow visitors to change their choice later.
+    var footer = document.querySelector("footer");
+    var link = document.createElement("button");
+
+    link.type = "button";
+    link.textContent = "Analytics preferences";
+    link.style.cssText =
+      "background:transparent;color:inherit;" +
+      "border:0;text-decoration:underline;" +
+      "cursor:pointer;margin:8px;padding:6px;";
+
+    link.addEventListener("click", function () {
+      saveChoice("");
+      if (readChoice() === "accepted") {
+        location.reload();
+      } else {
+        // Reload also disables any previously loaded tag.
+        location.reload();
+      }
+    });
+
+    (footer || document.body).appendChild(link);
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", start);
+  } else {
+    start();
+  }
+})();
+</script>
+<!-- NEON ANALYTICS CONSENT END -->
 </head>
 <body>
 <header>
@@ -245,6 +381,142 @@ function creatorDirectory(res) {
 }
 </style>
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMDBmNWY1Ii8+CjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmNDVhYSIvPgo8L2xpbmVhckdyYWRpZW50Pgo8L2RlZnM+CjxyZWN0IHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgcng9IjE1IiBmaWxsPSIjMTYwYjI1Ii8+CjxjaXJjbGUgY3g9IjMyIiBjeT0iMjUiIHI9IjE3IiBmaWxsPSIjZmY0NzljIi8+CjxwYXRoIGQ9Ik0xNSAzMCBINDkgTTE4IDI0IEg0NiIgc3Ryb2tlPSIjMTYwYjI1IiBzdHJva2Utd2lkdGg9IjMiLz4KPHBhdGggZD0iTTcgNTIgTDIwIDM2IEwzMiA1MSBMNDQgMzYgTDU3IDUyIgogICAgICBzdHJva2U9InVybCgjZykiIHN0cm9rZS13aWR0aD0iNSIgZmlsbD0ibm9uZSIvPgo8dGV4dCB4PSIzMiIgeT0iNjAiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtZmFtaWx5PSJBcmlhbCIKICAgICAgZm9udC13ZWlnaHQ9ImJvbGQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IndoaXRlIj5OQTwvdGV4dD4KPC9zdmc+">
+<!-- NEON ANALYTICS CONSENT START -->
+<script>
+(function () {
+  "use strict";
+
+  var measurementId = "G-3V8LES7BB3";
+  var storageKey = "neon-afterhours-analytics-choice";
+  var loaded = false;
+
+  function readChoice() {
+    try { return localStorage.getItem(storageKey); }
+    catch (e) { return null; }
+  }
+
+  function saveChoice(value) {
+    try { localStorage.setItem(storageKey, value); }
+    catch (e) {}
+  }
+
+  function loadAnalytics() {
+    if (loaded) return;
+    loaded = true;
+
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () {
+      window.dataLayer.push(arguments);
+    };
+
+    window.gtag("js", new Date());
+    window.gtag("config", measurementId);
+
+    var script = document.createElement("script");
+    script.async = true;
+    script.src =
+      "https://www.googletagmanager.com/gtag/js?id=" +
+      encodeURIComponent(measurementId);
+
+    document.head.appendChild(script);
+  }
+
+  function showChoices() {
+    if (document.getElementById("neon-consent")) return;
+
+    var panel = document.createElement("div");
+    panel.id = "neon-consent";
+
+    panel.style.cssText =
+      "position:fixed;bottom:16px;left:16px;" +
+      "right:16px;max-width:520px;margin:auto;" +
+      "background:#170e2c;color:white;" +
+      "border:1px solid #ff58b5;border-radius:14px;" +
+      "padding:18px;z-index:2147483647;" +
+      "box-shadow:0 6px 30px #0009;" +
+      "font:14px/1.5 Arial,sans-serif;";
+
+    var message = document.createElement("p");
+    message.textContent =
+      "Neon Afterhours GTA uses optional Google Analytics " +
+      "to understand visits and improve the website. " +
+      "Allow analytics?";
+    message.style.margin = "0 0 12px";
+
+    function makeButton(label, background, choice) {
+      var button = document.createElement("button");
+      button.type = "button";
+      button.textContent = label;
+      button.style.cssText =
+        "background:" + background + ";" +
+        "color:white;border:0;border-radius:8px;" +
+        "padding:10px 16px;margin:4px;" +
+        "cursor:pointer;font-weight:bold;";
+
+      button.addEventListener("click", function () {
+        saveChoice(choice);
+        panel.remove();
+
+        if (choice === "accepted") {
+          loadAnalytics();
+        }
+      });
+
+      return button;
+    }
+
+    panel.appendChild(message);
+    panel.appendChild(
+      makeButton("Accept analytics", "#d42d91", "accepted")
+    );
+    panel.appendChild(
+      makeButton("Reject", "#465066", "rejected")
+    );
+
+    document.body.appendChild(panel);
+  }
+
+  function start() {
+    var choice = readChoice();
+
+    if (choice === "accepted") {
+      loadAnalytics();
+    } else if (choice !== "rejected") {
+      showChoices();
+    }
+
+    // Allow visitors to change their choice later.
+    var footer = document.querySelector("footer");
+    var link = document.createElement("button");
+
+    link.type = "button";
+    link.textContent = "Analytics preferences";
+    link.style.cssText =
+      "background:transparent;color:inherit;" +
+      "border:0;text-decoration:underline;" +
+      "cursor:pointer;margin:8px;padding:6px;";
+
+    link.addEventListener("click", function () {
+      saveChoice("");
+      if (readChoice() === "accepted") {
+        location.reload();
+      } else {
+        // Reload also disables any previously loaded tag.
+        location.reload();
+      }
+    });
+
+    (footer || document.body).appendChild(link);
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", start);
+  } else {
+    start();
+  }
+})();
+</script>
+<!-- NEON ANALYTICS CONSENT END -->
 </head>
 <body>
 <header>
