@@ -159,3 +159,59 @@ body:has(#feed.is-loading) footer {
     min-height: 720px;
   }
 }
+/* NEON GA4 CONSENT STYLES START */
+#neon-consent {
+  position: fixed;
+  bottom: 16px;
+  left: 16px;
+  right: 16px;
+  max-width: 520px;
+  margin: 0 auto;
+  padding: 18px;
+  background: #170e2c;
+  color: #fff;
+  border: 2px solid #ff58b5;
+  border-radius: 14px;
+  box-shadow: 0 8px 35px #000b;
+  font: 14px/1.5 Arial, sans-serif;
+  z-index: 2147483647;
+}
+
+#neon-consent p {
+  margin: 0 0 12px;
+}
+
+.neon-consent-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.neon-consent-actions button {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.neon-consent-accept {
+  background: #d42d91;
+}
+
+.neon-consent-reject {
+  background: #465066;
+}
+
+#neon-analytics-preferences {
+  display: inline-block;
+  margin: 8px;
+  padding: 6px;
+  color: inherit;
+  background: transparent;
+  border: 0;
+  text-decoration: underline;
+  cursor: pointer;
+}
+/* NEON GA4 CONSENT STYLES END */

@@ -1,35 +1,35 @@
 (function () {
   "use strict";
 
-  const KEY = "neon-analytics-consent-v2";
   const ID = "G-3V8LES7BB3";
-  let analyticsLoaded = false;
+  const KEY = "neon-ga4-consent-v3";
+  let loaded = false;
 
   function getChoice() {
     try {
       return localStorage.getItem(KEY);
-    } catch {
+    } catch (e) {
       return null;
     }
   }
 
-  function saveChoice(choice) {
+  function saveChoice(value) {
     try {
-      localStorage.setItem(KEY, choice);
-    } catch {}
+      localStorage.setItem(KEY, value);
+    } catch (e) {}
   }
 
   function loadAnalytics() {
-    if (analyticsLoaded) return;
-    analyticsLoaded = true;
+    if (loaded) return;
+    loaded = true;
 
     window.dataLayer = window.dataLayer || [];
     window.gtag = function () {
-      dataLayer.push(arguments);
+      window.dataLayer.push(arguments);
     };
 
-    gtag("js", new Date());
-    gtag("config", ID);
+    window.gtag("js", new Date());
+    window.gtag("config", ID);
 
     const script = document.createElement("script");
     script.async = true;
@@ -43,86 +43,71 @@
   function showBanner() {
     if (document.getElementById("neon-consent")) return;
 
-    const panel = document.createElement("div");
+    const panel = document.createElement("section");
     panel.id = "neon-consent";
     panel.setAttribute("role", "dialog");
-    panel.setAttribute("aria-label", "Analytics preferences");
-
-    panel.style.cssText = [
-      "position:fixed",
-      "bottom:12px",
-      "left:12px",
-      "right:12px",
-      "max-width:480px",
-      "margin:auto",
-      "padding:18px",
-      "background:#180d2d",
-      "color:#ffffff",
-      "border:2px solid #ff54b8",
-      "border-radius:14px",
-      "box-shadow:0 8px 35px #000b",
-      "font:14px/1.5 Arial,sans-serif",
-      "z-index:2147483647"
-    ].join(";");
+    panel.setAttribute(
+      "aria-label",
+      "Analytics consent"
+    );
 
     const message = document.createElement("p");
     message.textContent =
-      "We use optional Google Analytics to measure " +
-      "website visits. Do you allow analytics?";
-    message.style.margin = "0 0 12px";
+      "Neon Afterhours GTA uses optional Google " +
+      "Analytics to understand website visits. " +
+      "Would you like to allow analytics?";
 
-    function button(label, color, value) {
-      const b = document.createElement("button");
-      b.type = "button";
-      b.textContent = label;
-      b.style.cssText =
-        "padding:10px 15px;margin:4px;" +
-        "background:" + color + ";" +
-        "color:white;border:0;border-radius:8px;" +
-        "cursor:pointer;font-weight:bold;";
+    const actions = document.createElement("div");
+    actions.className = "neon-consent-actions";
 
-      b.onclick = function () {
-        saveChoice(value);
+    function addButton(label, choice) {
+      const button = document.createElement("button");
+      button.type = "button";
+      button.textContent = label;
+      button.className =
+        choice === "accepted"
+          ? "neon-consent-accept"
+          : "neon-consent-reject";
+
+      button.addEventListener("click", function () {
+        saveChoice(choice);
         panel.remove();
 
-        if (value === "accepted") {
+        if (choice === "accepted") {
           loadAnalytics();
-        } else if (analyticsLoaded) {
+        } else if (loaded) {
           location.reload();
         }
-      };
+      });
 
-      return b;
+      actions.appendChild(button);
     }
 
+    addButton("Accept analytics", "accepted");
+    addButton("Reject", "rejected");
+
     panel.appendChild(message);
-    panel.appendChild(button("Accept", "#d42d91", "accepted"));
-    panel.appendChild(button("Reject", "#465066", "rejected"));
+    panel.appendChild(actions);
 
     document.body.appendChild(panel);
   }
 
   function start() {
-    const choice = getChoice();
-
-    if (choice === "accepted") {
+    if (getChoice() === "accepted") {
       loadAnalytics();
-    } else if (choice !== "rejected") {
+    } else if (getChoice() !== "rejected") {
       showBanner();
     }
 
     const preferences = document.createElement("button");
     preferences.type = "button";
+    preferences.id = "neon-analytics-preferences";
     preferences.textContent = "Analytics preferences";
-    preferences.style.cssText =
-      "display:block;margin:10px auto;" +
-      "background:transparent;color:inherit;" +
-      "border:0;text-decoration:underline;cursor:pointer;";
 
-    preferences.onclick = showBanner;
+    preferences.addEventListener("click", showBanner);
 
-    (document.querySelector("footer") || document.body)
-      .appendChild(preferences);
+    const footer = document.querySelector("footer");
+    (footer || document.body).appendChild(preferences);
   }
 
   if (document.readyState === "loading") {

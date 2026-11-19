@@ -28,7 +28,7 @@ if (!production && !ADMIN_PASSWORD) console.warn('Admin login disabled: set ADMI
 const sessions = new Map();
 const limits = new Map();
 const SESSION_MS = 8 * 60 * 60 * 1000;
-const MIME = {'/neon-afterhours-hero.webp':'image/webp','/vicewire-neon-background.jpg':'image/jpeg','/sitemap.xml':'application/xml; charset=utf-8','/robots.txt':'text/plain; charset=utf-8','/':'text/html; charset=utf-8','/index.html':'text/html; charset=utf-8','/app.js':'application/javascript; charset=utf-8','/style.css':'text/css; charset=utf-8','/sections.js':'application/javascript; charset=utf-8','/sections.css':'text/css; charset=utf-8'};
+const MIME = {'/analytics-consent.js':'application/javascript; charset=utf-8','/neon-afterhours-hero.webp':'image/webp','/vicewire-neon-background.jpg':'image/jpeg','/sitemap.xml':'application/xml; charset=utf-8','/robots.txt':'text/plain; charset=utf-8','/':'text/html; charset=utf-8','/index.html':'text/html; charset=utf-8','/app.js':'application/javascript; charset=utf-8','/style.css':'text/css; charset=utf-8','/sections.js':'application/javascript; charset=utf-8','/sections.css':'text/css; charset=utf-8'};
 
 function rateLimit(req, bucket, max, periodMs) {
   const key = req.socket.remoteAddress + ':' + bucket;
@@ -46,7 +46,7 @@ function headers(res) {
   res.setHeader('X-Frame-Options','DENY');
   res.setHeader('Permissions-Policy','camera=(), microphone=(), geolocation=()');
   res.setHeader('Cross-Origin-Opener-Policy','same-origin');
-  res.setHeader('Content-Security-Policy', "default-src 'none'; base-uri 'none'; form-action 'self'; frame-ancestors 'none'; script-src 'self'; style-src 'self'; img-src 'self' https://img.youtube.com data:; connect-src 'self'; frame-src https://www.youtube-nocookie.com https://www.tiktok.com; font-src 'self'");
+  res.setHeader('Content-Security-Policy', "default-src 'none'; base-uri 'none'; form-action 'self'; frame-ancestors 'none'; script-src 'self' https://www.googletagmanager.com; style-src 'self'; img-src 'self' https://img.youtube.com https://www.google-analytics.com https://*.google-analytics.com data:; connect-src 'self' https://www.google-analytics.com https://*.google-analytics.com; frame-src https://www.youtube-nocookie.com https://www.tiktok.com; font-src 'self'");
   if (production) res.setHeader('Strict-Transport-Security','max-age=31536000; includeSubDomains');
   res.setHeader('Cache-Control','no-store');
 }
