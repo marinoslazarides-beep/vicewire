@@ -49,11 +49,29 @@ function render(){
  if(!filtered.length){feed.append(element('div','empty','No videos match your filters yet.'));return}
  for(const v of filtered){
   const card=element('article','card'),thumb=element('button','thumb');thumb.type='button';
-  if(v.platform==='YouTube' && /^[\w-]{11}$/.test(v.id)){const img=element('img');img.src='https://img.youtube.com/vi/'+v.id+'/hqdefault.jpg';img.alt='Video thumbnail';img.loading='lazy';thumb.append(img)}else thumb.textContent='▶';
+  if(v.platform==='YouTube' && /^[\w-]{11}$/.test(v.id)){const img=element('img');img.src='https://img.youtube.com/vi/'+v.id+'/hqdefault.jpg';img.alt='Video thumbnail';img.loading='lazy';thumb.append(img)}else if(v.platform==='TikTok'){
+     thumb.classList.add('tiktok-thumb');
+
+     const preview=element('div','tiktok-preview');
+     preview.append(
+       element('span','tiktok-platform','TIKTOK'),
+       element('span','tiktok-play','▶'),
+       element('strong','tiktok-creator','@'+v.creator),
+       element('span','tiktok-caption','Watch on TikTok')
+     );
+
+     thumb.append(preview);
+   }else thumb.textContent='▶';
   thumb.addEventListener('click',()=>play(v));card.append(thumb);
   const body=element('div','details');const creatorMeta=element('div','muted');
 const creatorLink=element('a','',v.creator);
-creatorLink.href='/creator/'+encodeURIComponent(v.creator.trim());
+creatorLink.href=v.platform==='TikTok'
+ ? 'https://www.tiktok.com/@'+encodeURIComponent(v.creator.replace(/^@/,'').trim())
+ : '/creator/'+encodeURIComponent(v.creator.trim());
+if(v.platform==='TikTok'){
+ creatorLink.target='_blank';
+ creatorLink.rel='noopener noreferrer';
+}
 creatorMeta.append(creatorLink,document.createTextNode(' | '+v.platform));
 body.append(element('h3','',v.title),creatorMeta,element('span','tag',v.category));
   if(v.spoiler)body.append(element('span','tag','Spoilers'));

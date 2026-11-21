@@ -215,3 +215,85 @@ body:has(#feed.is-loading) footer {
   cursor: pointer;
 }
 /* NEON GA4 CONSENT STYLES END */
+/* NEON TIKTOK CARDS V1 */
+
+.tiktok-thumb {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  padding: 0;
+  overflow: hidden;
+  background:
+    linear-gradient(
+      135deg,
+      rgba(11,5,28,.65),
+      rgba(21,6,38,.82)
+    ),
+    url('/neon-afterhours-hero.webp')
+    center / cover no-repeat;
+}
+
+.tiktok-preview {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  padding: 12px;
+  text-align: center;
+  color: white;
+}
+
+.tiktok-platform {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  padding: 5px 10px;
+  border-radius: 6px;
+  background: #101020;
+  border: 1px solid #19e7f1;
+  color: #19e7f1;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+
+.tiktok-play {
+  display: grid;
+  place-items: center;
+  width: 58px;
+  height: 58px;
+  border-radius: 50%;
+  border: 2px solid #20eff9;
+  background: rgba(13,9,30,.85);
+  color: #ff69bd;
+  font-size: 28px;
+  box-shadow:
+    0 0 15px rgba(32,239,249,.35),
+    0 0 22px rgba(255,105,189,.25);
+}
+
+.tiktok-creator {
+  font-size: 17px;
+  color: white;
+  text-shadow: 0 2px 8px black;
+  overflow-wrap: anywhere;
+}
+
+.tiktok-caption {
+  color: #ff98d0;
+  font-size: 12px;
+}
+
+.tiktok-thumb:hover .tiktok-play {
+  transform: scale(1.08);
+}
+
+@media(max-width:700px) {
+  .tiktok-play {
+    width: 52px;
+    height: 52px;
+  }
+}
+/* END NEON TIKTOK CARDS V1 */
