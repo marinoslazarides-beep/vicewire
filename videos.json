@@ -11,8 +11,8 @@
     "createdAt": "2026-11-28T05:42:03Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 218,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 222,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -26,8 +26,8 @@
     "createdAt": "2026-11-28T05:00:07Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1743,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1812,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -41,8 +41,8 @@
     "createdAt": "2026-11-28T04:00:09Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1134,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1158,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -56,8 +56,8 @@
     "createdAt": "2026-11-28T02:45:27Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 2367,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 2835,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -71,9 +71,9 @@
     "createdAt": "2026-11-28T01:52:09Z",
     "source": "youtube-api",
     "isLive": true,
-    "viewCount": 21585,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z",
-    "concurrentViewers": 943
+    "viewCount": 24244,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z",
+    "concurrentViewers": 907
   },
   {
     "platform": "YouTube",
@@ -87,8 +87,8 @@
     "createdAt": "2026-11-28T01:33:01Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1175,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1200,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -102,8 +102,8 @@
     "createdAt": "2026-11-28T01:00:16Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 385,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 429,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -117,8 +117,8 @@
     "createdAt": "2026-11-28T00:48:19Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 368,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 370,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -132,8 +132,8 @@
     "createdAt": "2026-11-28T00:30:25Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 4112,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 4139,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -147,8 +147,8 @@
     "createdAt": "2026-11-27T23:25:54Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 5186,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 5538,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -162,8 +162,8 @@
     "createdAt": "2026-11-27T21:00:39Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 3708,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 3889,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -177,8 +177,8 @@
     "createdAt": "2026-11-27T17:49:17Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 2,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -192,8 +192,8 @@
     "createdAt": "2026-11-28T06:16:15Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 12793,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 13914,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -207,8 +207,8 @@
     "createdAt": "2026-11-28T05:51:45Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1705,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1824,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -222,8 +222,8 @@
     "createdAt": "2026-11-28T05:30:02Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1370,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1430,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -237,8 +237,8 @@
     "createdAt": "2026-11-28T05:24:06Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1094,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1168,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -252,8 +252,8 @@
     "createdAt": "2026-11-28T04:30:39Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1164,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1167,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -267,8 +267,8 @@
     "createdAt": "2026-11-28T04:00:26Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 6865,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 7806,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -282,8 +282,8 @@
     "createdAt": "2026-11-28T03:38:10Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 67139,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 80997,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -297,8 +297,8 @@
     "createdAt": "2026-11-28T03:32:56Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1263,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1260,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -312,8 +312,8 @@
     "createdAt": "2026-11-28T03:29:00Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 33884,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 34416,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -327,8 +327,8 @@
     "createdAt": "2026-11-28T03:25:18Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 35196,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 36378,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -342,8 +342,8 @@
     "createdAt": "2026-11-28T03:00:35Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 58392,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 67660,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -357,8 +357,8 @@
     "createdAt": "2026-11-28T02:52:41Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 38512,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 38654,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -373,7 +373,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -388,7 +388,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1203,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -403,7 +403,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1495,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -417,8 +417,8 @@
     "createdAt": "2026-11-28T04:01:55Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1174,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1167,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -433,7 +433,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1065,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -447,8 +447,8 @@
     "createdAt": "2026-11-28T03:55:15Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 772,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 784,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -463,7 +463,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -478,7 +478,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1158,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -492,8 +492,8 @@
     "createdAt": "2026-11-28T01:10:12Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 159362,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 169224,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -508,7 +508,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 996,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -523,7 +523,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1103,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -538,7 +538,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 4,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -551,9 +551,9 @@
     "summary": "",
     "createdAt": "2026-11-28T06:23:28Z",
     "source": "youtube-api",
-    "isLive": false,
-    "viewCount": 3,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "isLive": true,
+    "viewCount": 1,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -567,9 +567,9 @@
     "createdAt": "2026-11-28T06:14:56Z",
     "source": "youtube-api",
     "isLive": true,
-    "viewCount": 193,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z",
-    "concurrentViewers": 5
+    "viewCount": 234,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z",
+    "concurrentViewers": 4
   },
   {
     "platform": "YouTube",
@@ -583,8 +583,8 @@
     "createdAt": "2026-11-28T06:06:00Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 31,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 15,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -599,7 +599,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 3,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -613,8 +613,8 @@
     "createdAt": "2026-11-28T06:07:03Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 8,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 6,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -629,7 +629,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -644,7 +644,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 19,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -659,7 +659,7 @@
     "source": "youtube-api",
     "isLive": true,
     "viewCount": 3,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -673,8 +673,8 @@
     "createdAt": "2026-11-28T05:51:13Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 64,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 44,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -689,7 +689,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 10,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -704,7 +704,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1003,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -718,8 +718,8 @@
     "createdAt": "2026-11-28T05:49:17Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 15,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 6,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -733,8 +733,8 @@
     "createdAt": "2026-11-27T23:44:18Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1292,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1298,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -748,8 +748,8 @@
     "createdAt": "2026-11-27T23:22:21Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1605,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1697,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -763,8 +763,8 @@
     "createdAt": "2026-11-27T23:03:06Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1230,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1236,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -778,8 +778,8 @@
     "createdAt": "2026-11-27T20:59:12Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 763,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 881,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -793,8 +793,8 @@
     "createdAt": "2026-11-27T19:15:19Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1254,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1250,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -809,7 +809,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 2032,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -823,8 +823,8 @@
     "createdAt": "2026-11-27T18:59:24Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1314,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1347,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -838,8 +838,8 @@
     "createdAt": "2026-11-27T18:55:48Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1144,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1147,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -853,8 +853,8 @@
     "createdAt": "2026-11-27T14:30:02Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 12,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 15,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -868,8 +868,8 @@
     "createdAt": "2026-11-27T13:15:09Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 83867,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 85455,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -883,8 +883,8 @@
     "createdAt": "2026-11-27T23:30:09Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 126975,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 128514,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -898,8 +898,8 @@
     "createdAt": "2026-11-27T23:05:18Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1284,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1285,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -913,8 +913,8 @@
     "createdAt": "2026-11-27T23:00:38Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1106,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1107,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -929,7 +929,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 263,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -943,8 +943,8 @@
     "createdAt": "2026-11-27T22:30:38Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 3136,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 3376,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -958,8 +958,8 @@
     "createdAt": "2026-11-27T21:41:38Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 2696,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 2688,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -974,7 +974,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 2137,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -988,8 +988,8 @@
     "createdAt": "2026-11-27T20:49:36Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1239550,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1253871,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1003,8 +1003,8 @@
     "createdAt": "2026-11-27T20:41:16Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 29350,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 31410,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1018,8 +1018,8 @@
     "createdAt": "2026-11-27T19:00:08Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 16802,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 17938,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1033,8 +1033,8 @@
     "createdAt": "2026-11-27T18:50:48Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 2639690,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 2669712,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1049,7 +1049,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1103,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1063,8 +1063,8 @@
     "createdAt": "2026-11-27T23:58:08Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1239,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1241,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1079,7 +1079,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1223,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1093,8 +1093,8 @@
     "createdAt": "2026-11-27T21:22:34Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1195,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1198,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1108,8 +1108,8 @@
     "createdAt": "2026-11-27T20:00:21Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1258,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1255,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1123,8 +1123,8 @@
     "createdAt": "2026-11-27T20:00:23Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 145124,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 166707,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1139,7 +1139,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1163,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1153,8 +1153,8 @@
     "createdAt": "2026-11-27T19:24:54Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 28953,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 30832,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1169,7 +1169,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1184,7 +1184,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 22,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1198,8 +1198,8 @@
     "createdAt": "2026-11-27T16:15:07Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 289638,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 308740,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1213,8 +1213,8 @@
     "createdAt": "2026-11-27T15:49:41Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1239,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1268,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1228,8 +1228,8 @@
     "createdAt": "2026-11-27T15:44:30Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 445927,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 446240,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1244,7 +1244,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 6,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1258,8 +1258,8 @@
     "createdAt": "2026-11-28T00:36:03Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 5,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 7,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1289,7 +1289,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 27,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1304,7 +1304,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1319,7 +1319,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1334,7 +1334,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 45,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1348,8 +1348,8 @@
     "createdAt": "2026-11-28T00:05:53Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 5,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 6,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1363,8 +1363,8 @@
     "createdAt": "2026-11-28T00:04:59Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 5571,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 5573,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1379,7 +1379,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1393,8 +1393,8 @@
     "createdAt": "2026-11-28T00:02:11Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 23,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 25,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1409,7 +1409,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1423,8 +1423,8 @@
     "createdAt": "2026-11-27T17:43:39Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 85823,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 87549,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1439,7 +1439,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 3,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1453,8 +1453,8 @@
     "createdAt": "2026-11-27T17:09:49Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1013,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1017,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1468,8 +1468,8 @@
     "createdAt": "2026-11-27T17:00:12Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 17615,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 18857,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1483,8 +1483,8 @@
     "createdAt": "2026-11-27T17:00:02Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1446,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1451,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1499,7 +1499,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1160,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1514,7 +1514,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1015,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1529,7 +1529,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1280,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1543,8 +1543,8 @@
     "createdAt": "2026-11-27T15:19:24Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 3383,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 3474,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1558,8 +1558,8 @@
     "createdAt": "2026-11-27T15:02:43Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 14209,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 16507,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1573,8 +1573,8 @@
     "createdAt": "2026-11-27T15:00:20Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 789,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 821,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1588,8 +1588,8 @@
     "createdAt": "2026-11-27T14:58:14Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 44708,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 46507,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1604,7 +1604,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1529,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1619,7 +1619,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1032,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1633,8 +1633,8 @@
     "createdAt": "2026-11-27T17:30:30Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1967,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 2195,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1648,8 +1648,8 @@
     "createdAt": "2026-11-27T17:27:43Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 3310,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 3407,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1664,7 +1664,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1444,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1678,8 +1678,8 @@
     "createdAt": "2026-11-27T16:49:33Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 17878,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 17909,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1693,8 +1693,8 @@
     "createdAt": "2026-11-27T16:29:55Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1427,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1455,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1708,8 +1708,8 @@
     "createdAt": "2026-11-27T16:26:05Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 6132,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 6299,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1724,7 +1724,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1098,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1738,8 +1738,8 @@
     "createdAt": "2026-11-27T14:36:05Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1048,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1049,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1754,7 +1754,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 275,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1768,8 +1768,8 @@
     "createdAt": "2026-11-27T14:24:46Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 16517,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 16857,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1783,8 +1783,8 @@
     "createdAt": "2026-11-27T16:45:37Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 6909,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 8587,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1798,8 +1798,8 @@
     "createdAt": "2026-11-27T16:02:55Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 8447,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 8453,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1814,7 +1814,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 3,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1829,7 +1829,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1717,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1843,8 +1843,8 @@
     "createdAt": "2026-11-27T15:58:25Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1460,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1479,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1858,8 +1858,8 @@
     "createdAt": "2026-11-27T15:37:36Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 3675,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 3815,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1874,7 +1874,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1575,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1889,7 +1889,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1904,7 +1904,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1919,7 +1919,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1346,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1934,7 +1934,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1851,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1949,7 +1949,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1333,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1964,7 +1964,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 20,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1979,7 +1979,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 6,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -1994,7 +1994,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 39,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2009,7 +2009,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 11,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2024,7 +2024,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 21,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2039,7 +2039,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 8,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2053,8 +2053,8 @@
     "createdAt": "2026-11-27T18:03:49Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 137,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 141,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2069,7 +2069,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 453,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2084,7 +2084,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 22,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2099,7 +2099,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 8,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2114,7 +2114,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2129,7 +2129,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 294,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2143,8 +2143,8 @@
     "createdAt": "2026-11-27T11:27:40Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1587,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1590,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2159,7 +2159,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1077,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2174,7 +2174,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 8313,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2188,8 +2188,8 @@
     "createdAt": "2026-11-27T07:16:28Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 285,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 288,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2203,8 +2203,8 @@
     "createdAt": "2026-11-27T06:37:04Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1507,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1528,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2219,7 +2219,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1289,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2234,7 +2234,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1342,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2248,8 +2248,8 @@
     "createdAt": "2026-11-26T19:15:34Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 311242,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 311865,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2263,8 +2263,8 @@
     "createdAt": "2026-11-26T17:00:15Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 3429,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 3493,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2278,8 +2278,8 @@
     "createdAt": "2026-11-27T03:41:36Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1459293,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1486147,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2294,7 +2294,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 718,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2308,8 +2308,8 @@
     "createdAt": "2026-11-26T16:38:43Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 124759,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 126866,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2323,8 +2323,8 @@
     "createdAt": "2026-11-26T13:50:59Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 341013,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 342131,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2338,8 +2338,8 @@
     "createdAt": "2026-11-26T09:36:47Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 68212,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 69888,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2353,8 +2353,8 @@
     "createdAt": "2026-11-25T13:31:10Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 4754155,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 4886336,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2368,8 +2368,8 @@
     "createdAt": "2026-11-25T06:03:30Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 381367,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 382779,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2383,8 +2383,8 @@
     "createdAt": "2026-11-25T01:32:36Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 490934,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 492581,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2398,8 +2398,8 @@
     "createdAt": "2026-11-25T01:11:51Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 3014111,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 3034034,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2413,8 +2413,8 @@
     "createdAt": "2026-11-25T00:00:42Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 50022,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 50094,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2428,8 +2428,8 @@
     "createdAt": "2026-11-24T22:50:04Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1048468,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1049470,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2443,8 +2443,8 @@
     "createdAt": "2026-11-24T20:06:55Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 525643,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 528293,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2459,7 +2459,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1132,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2473,8 +2473,8 @@
     "createdAt": "2026-11-27T11:14:31Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1415,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1405,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2488,8 +2488,8 @@
     "createdAt": "2026-11-27T11:14:41Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 697,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 698,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2503,8 +2503,8 @@
     "createdAt": "2026-11-27T11:00:01Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 15343,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 17426,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2518,8 +2518,8 @@
     "createdAt": "2026-11-27T10:00:22Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 5344,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 5526,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2534,7 +2534,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 6,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2549,7 +2549,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 2,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2563,8 +2563,8 @@
     "createdAt": "2026-11-27T08:53:24Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 104649,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 105072,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2579,7 +2579,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1189,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2593,8 +2593,8 @@
     "createdAt": "2026-11-27T08:09:26Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 776,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 777,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2609,7 +2609,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 738,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2624,7 +2624,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1266,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2639,7 +2639,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2654,7 +2654,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 10,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2669,7 +2669,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2684,7 +2684,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 586,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2698,8 +2698,8 @@
     "createdAt": "2026-11-27T12:14:17Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 34,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 35,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2713,8 +2713,8 @@
     "createdAt": "2026-11-27T12:13:15Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 7,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 10,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2729,7 +2729,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 2,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2744,7 +2744,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 10,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2759,7 +2759,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 693,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2774,7 +2774,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 69,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2789,7 +2789,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 806,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2804,7 +2804,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 916,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2819,7 +2819,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1180,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2833,8 +2833,8 @@
     "createdAt": "2026-11-27T03:50:39Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1533,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1554,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2848,8 +2848,8 @@
     "createdAt": "2026-11-27T02:45:24Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 4631,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 4656,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2863,8 +2863,8 @@
     "createdAt": "2026-11-27T02:03:51Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1128,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1133,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2879,7 +2879,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 379,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2893,8 +2893,8 @@
     "createdAt": "2026-11-27T00:30:04Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 9592,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 9691,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2908,8 +2908,8 @@
     "createdAt": "2026-11-26T22:30:25Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1640,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1641,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2923,8 +2923,8 @@
     "createdAt": "2026-11-26T19:30:21Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 936,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1001,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2938,8 +2938,8 @@
     "createdAt": "2026-11-26T18:59:50Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 2156,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 2195,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2954,7 +2954,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1346,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2968,8 +2968,8 @@
     "createdAt": "2026-11-25T21:38:56Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 84939,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 85257,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2983,8 +2983,8 @@
     "createdAt": "2026-11-27T06:00:24Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 102354,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 102474,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -2999,7 +2999,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1016,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3013,8 +3013,8 @@
     "createdAt": "2026-11-27T05:50:05Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 652,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 708,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3028,8 +3028,8 @@
     "createdAt": "2026-11-27T03:36:42Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 6159,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 7277,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3043,8 +3043,8 @@
     "createdAt": "2026-11-27T03:30:32Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 7824803,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 8055123,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3058,8 +3058,8 @@
     "createdAt": "2026-11-27T03:30:13Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 929,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 995,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3073,8 +3073,8 @@
     "createdAt": "2026-11-27T03:05:46Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1091663,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1092146,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3089,7 +3089,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1206,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3103,8 +3103,8 @@
     "createdAt": "2026-11-27T00:30:01Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1842969,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1865810,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3118,8 +3118,8 @@
     "createdAt": "2026-11-26T23:37:22Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 32543,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 32550,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3133,8 +3133,8 @@
     "createdAt": "2026-11-26T18:25:47Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 2885300,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 2894379,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3148,8 +3148,8 @@
     "createdAt": "2026-11-26T13:30:12Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 31718,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 31747,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3164,7 +3164,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 2,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3178,8 +3178,8 @@
     "createdAt": "2026-11-27T05:00:06Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 797,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 800,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3193,8 +3193,8 @@
     "createdAt": "2026-11-27T03:30:10Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1407,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1408,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3208,8 +3208,8 @@
     "createdAt": "2026-11-27T03:10:58Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1193,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1194,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3223,8 +3223,8 @@
     "createdAt": "2026-11-27T03:01:20Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 751,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 756,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3238,8 +3238,8 @@
     "createdAt": "2026-11-27T02:00:10Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 10257,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 10313,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3254,7 +3254,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1942,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3284,7 +3284,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3299,7 +3299,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1037,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3313,8 +3313,8 @@
     "createdAt": "2026-11-26T21:00:20Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 2283,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 2253,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3328,8 +3328,8 @@
     "createdAt": "2026-11-26T18:30:25Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 21000,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 21009,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3343,8 +3343,8 @@
     "createdAt": "2026-11-27T06:30:12Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 8,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 9,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3359,7 +3359,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 167,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3374,7 +3374,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 3,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3389,7 +3389,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 4,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3404,7 +3404,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 43,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3419,7 +3419,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 762,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3434,7 +3434,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 20,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3449,7 +3449,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 21,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3464,7 +3464,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 24,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3479,7 +3479,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 14,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3494,7 +3494,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3509,7 +3509,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 3,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3524,7 +3524,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1128,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3539,7 +3539,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 458,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3554,7 +3554,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 704,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3568,8 +3568,8 @@
     "createdAt": "2026-11-26T20:48:33Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 3006,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 3036,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3583,8 +3583,8 @@
     "createdAt": "2026-11-26T19:59:49Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1194,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1195,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3598,8 +3598,8 @@
     "createdAt": "2026-11-26T19:00:12Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 384853,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 385799,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3613,8 +3613,8 @@
     "createdAt": "2026-11-26T18:41:51Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1039,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1040,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3629,7 +3629,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 650,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3644,7 +3644,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 25,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3658,8 +3658,8 @@
     "createdAt": "2026-11-26T14:00:12Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 12287,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 12296,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3673,8 +3673,8 @@
     "createdAt": "2026-11-26T12:30:56Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 2123,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 2128,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3688,8 +3688,8 @@
     "createdAt": "2026-11-26T12:04:46Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 2606,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 2603,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3703,8 +3703,8 @@
     "createdAt": "2026-11-27T00:12:02Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 27701,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 27727,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3719,7 +3719,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1333,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3734,7 +3734,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 9098,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3749,7 +3749,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1654,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3763,8 +3763,8 @@
     "createdAt": "2026-11-26T23:10:25Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 103591,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 103702,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3778,8 +3778,8 @@
     "createdAt": "2026-11-26T23:00:33Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 2269,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 2286,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3793,8 +3793,8 @@
     "createdAt": "2026-11-26T22:53:20Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 3840,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 3852,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3808,8 +3808,8 @@
     "createdAt": "2026-11-26T22:36:31Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1426,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1429,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3823,8 +3823,8 @@
     "createdAt": "2026-11-26T22:30:24Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1179,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1180,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3853,8 +3853,8 @@
     "createdAt": "2026-11-26T21:36:57Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 48967,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 49033,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3869,7 +3869,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1259,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3884,7 +3884,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 4,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3899,7 +3899,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 3,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3914,7 +3914,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 2534,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3929,7 +3929,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 3,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3943,8 +3943,8 @@
     "createdAt": "2026-11-26T22:24:15Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1374,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1380,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3959,7 +3959,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 454,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3974,7 +3974,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 2,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -3989,7 +3989,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4004,7 +4004,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1297,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4018,8 +4018,8 @@
     "createdAt": "2026-11-26T19:00:08Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 6036,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 6056,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4049,7 +4049,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 25,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4064,7 +4064,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 78,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4079,7 +4079,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 12,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4094,7 +4094,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 505,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4109,7 +4109,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4124,7 +4124,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 4,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4139,7 +4139,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 45,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4154,7 +4154,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4169,7 +4169,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4184,7 +4184,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 539,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4199,7 +4199,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4214,7 +4214,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4243,8 +4243,8 @@
     "createdAt": "2026-11-26T18:00:02Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 32537,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 32522,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4259,7 +4259,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1114,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4273,8 +4273,8 @@
     "createdAt": "2026-11-26T16:00:00Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 2289,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 2290,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4288,8 +4288,8 @@
     "createdAt": "2026-11-26T16:00:17Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 587,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 594,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4303,8 +4303,8 @@
     "createdAt": "2026-11-26T16:00:24Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 121716,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 123124,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4319,7 +4319,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1137,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4333,8 +4333,8 @@
     "createdAt": "2026-11-26T15:07:03Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 4793,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 4830,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4348,8 +4348,8 @@
     "createdAt": "2026-11-26T14:36:29Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 43303,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 43325,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4363,8 +4363,8 @@
     "createdAt": "2026-11-26T14:00:14Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1883,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1884,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4378,8 +4378,8 @@
     "createdAt": "2026-11-26T14:00:25Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 17102,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 17347,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4393,8 +4393,8 @@
     "createdAt": "2026-11-26T13:40:51Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 817,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 819,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4409,7 +4409,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 666,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4423,8 +4423,8 @@
     "createdAt": "2026-11-26T15:45:30Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 2056,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 2087,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4439,7 +4439,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1948,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4453,8 +4453,8 @@
     "createdAt": "2026-11-26T15:02:11Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 14453344,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 14725442,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4468,8 +4468,8 @@
     "createdAt": "2026-11-26T14:36:32Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 54954,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 54993,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4483,8 +4483,8 @@
     "createdAt": "2026-11-26T13:39:48Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 20962,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 20966,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4498,8 +4498,8 @@
     "createdAt": "2026-11-26T13:38:00Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 237954,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 259539,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4513,8 +4513,8 @@
     "createdAt": "2026-11-26T13:30:00Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 73214,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 73467,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4528,8 +4528,8 @@
     "createdAt": "2026-11-26T13:30:15Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 36916,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 36924,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4543,8 +4543,8 @@
     "createdAt": "2026-11-26T13:00:09Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 248740,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 252026,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4559,7 +4559,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 35567,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4573,8 +4573,8 @@
     "createdAt": "2026-11-26T12:00:15Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 243830,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 245143,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4604,7 +4604,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 4333,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4619,7 +4619,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1222,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4634,7 +4634,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1316,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4648,8 +4648,8 @@
     "createdAt": "2026-11-26T17:00:28Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 132292,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 132680,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4663,8 +4663,8 @@
     "createdAt": "2026-11-26T17:00:33Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 2075,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 2074,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4678,8 +4678,8 @@
     "createdAt": "2026-11-26T16:35:20Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 59041,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 61987,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4694,7 +4694,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 15,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4709,7 +4709,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1464,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4724,7 +4724,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4738,8 +4738,8 @@
     "createdAt": "2026-11-26T15:00:19Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 6884,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 6888,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4754,7 +4754,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 84,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4768,8 +4768,8 @@
     "createdAt": "2026-11-26T13:28:31Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 5678916,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 5678942,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4783,8 +4783,8 @@
     "createdAt": "2026-11-26T18:18:37Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 112,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 92,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4799,7 +4799,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 53,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4814,7 +4814,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 47,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4829,7 +4829,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 7,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4844,7 +4844,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 12,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4859,7 +4859,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 6,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4874,7 +4874,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 9,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4889,7 +4889,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1827,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4904,7 +4904,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 420,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4919,7 +4919,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 17,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4934,7 +4934,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 52,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4949,7 +4949,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 27,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4964,7 +4964,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 3535,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4979,7 +4979,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 2357,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -4993,8 +4993,8 @@
     "createdAt": "2026-11-26T09:37:46Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 461,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 459,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5009,7 +5009,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1906,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5024,7 +5024,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1389,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5038,8 +5038,8 @@
     "createdAt": "2026-11-26T06:30:31Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1424,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1428,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5053,8 +5053,8 @@
     "createdAt": "2026-11-26T05:45:57Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 3171,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 3175,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5069,7 +5069,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 503,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5084,7 +5084,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1219,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5098,8 +5098,8 @@
     "createdAt": "2026-11-25T16:21:56Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 77002,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 77638,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5113,8 +5113,8 @@
     "createdAt": "2026-11-26T11:41:11Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 29263,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 29261,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5128,8 +5128,8 @@
     "createdAt": "2026-11-26T11:34:39Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 976,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 981,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5143,8 +5143,8 @@
     "createdAt": "2026-11-26T11:30:32Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 4332,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 4334,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5158,8 +5158,8 @@
     "createdAt": "2026-11-26T11:04:32Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 2721,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 2713,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5173,8 +5173,8 @@
     "createdAt": "2026-11-26T10:07:54Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 39124,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 39132,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5189,7 +5189,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1448,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5203,8 +5203,8 @@
     "createdAt": "2026-11-26T09:33:02Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 30853,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 30915,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5218,8 +5218,8 @@
     "createdAt": "2026-11-26T09:22:14Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 2797151,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 2901553,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5233,8 +5233,8 @@
     "createdAt": "2026-11-26T09:13:30Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 11508006,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 11795639,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5249,7 +5249,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1387,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5263,8 +5263,8 @@
     "createdAt": "2026-11-26T09:01:28Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1273,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1274,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5278,8 +5278,8 @@
     "createdAt": "2026-11-26T08:35:25Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 35024,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 35026,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5294,7 +5294,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5308,8 +5308,8 @@
     "createdAt": "2026-11-26T11:00:23Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 2074,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 2081,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5323,8 +5323,8 @@
     "createdAt": "2026-11-26T10:17:34Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 76689,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 77309,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5338,8 +5338,8 @@
     "createdAt": "2026-11-26T10:00:16Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 19869,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 20381,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5354,7 +5354,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1499,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5368,8 +5368,8 @@
     "createdAt": "2026-11-26T05:23:13Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 76454,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 77915,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5384,7 +5384,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5398,8 +5398,8 @@
     "createdAt": "2026-11-26T00:30:09Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 296210,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 296921,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5413,8 +5413,8 @@
     "createdAt": "2026-11-26T00:05:17Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 68563,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 68840,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5429,7 +5429,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 2,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5444,7 +5444,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5458,8 +5458,8 @@
     "createdAt": "2026-11-25T20:00:37Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 18985,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 18966,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5474,7 +5474,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 49,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5489,7 +5489,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 7,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5504,7 +5504,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 183,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5519,7 +5519,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 24,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5533,8 +5533,8 @@
     "createdAt": "2026-11-26T12:16:43Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 16,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 18,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5549,7 +5549,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5563,8 +5563,8 @@
     "createdAt": "2026-11-26T12:05:15Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 55,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 56,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5579,7 +5579,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5593,8 +5593,8 @@
     "createdAt": "2026-11-26T12:03:10Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 187,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 188,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5609,7 +5609,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5624,7 +5624,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 2,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5638,8 +5638,8 @@
     "createdAt": "2026-11-26T12:01:46Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 313,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 315,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5654,7 +5654,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 4107,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5668,8 +5668,8 @@
     "createdAt": "2026-11-26T00:31:06Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1594,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1595,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5683,8 +5683,8 @@
     "createdAt": "2026-11-26T00:20:32Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1510085,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1511029,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5698,8 +5698,8 @@
     "createdAt": "2026-11-25T23:17:52Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1176,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1177,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5714,7 +5714,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1475,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5728,8 +5728,8 @@
     "createdAt": "2026-11-25T20:40:00Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 3382,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 3387,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5743,8 +5743,8 @@
     "createdAt": "2026-11-25T19:19:11Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 64405,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 64641,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5759,7 +5759,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1325,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5773,8 +5773,8 @@
     "createdAt": "2026-11-26T06:00:06Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 85821,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 86639,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5789,7 +5789,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1286,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5803,8 +5803,8 @@
     "createdAt": "2026-11-26T04:50:53Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1284,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1285,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5818,8 +5818,8 @@
     "createdAt": "2026-11-26T04:29:51Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1386,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1387,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5834,7 +5834,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 8151,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5849,7 +5849,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1460,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5863,8 +5863,8 @@
     "createdAt": "2026-11-26T02:24:27Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 197217,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 200900,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5878,8 +5878,8 @@
     "createdAt": "2026-11-26T01:43:02Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1374546,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1374928,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5893,8 +5893,8 @@
     "createdAt": "2026-11-25T19:00:32Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 3649,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 3667,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5909,7 +5909,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 33897,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5924,7 +5924,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 18702,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5938,8 +5938,8 @@
     "createdAt": "2026-11-25T12:00:20Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 131277,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 133620,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5954,7 +5954,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5969,7 +5969,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5983,8 +5983,8 @@
     "createdAt": "2026-11-26T05:50:32Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 49,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 51,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -5999,7 +5999,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 130,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6014,7 +6014,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1576,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6028,8 +6028,8 @@
     "createdAt": "2026-11-26T03:42:56Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 3655,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 3656,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6043,8 +6043,8 @@
     "createdAt": "2026-11-26T03:28:11Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 79846,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 79869,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6058,8 +6058,8 @@
     "createdAt": "2026-11-26T02:58:46Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1116,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1117,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6073,8 +6073,8 @@
     "createdAt": "2026-11-26T01:06:10Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 6050,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 6089,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6088,8 +6088,8 @@
     "createdAt": "2026-11-26T00:00:28Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 6723,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 6724,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6103,8 +6103,8 @@
     "createdAt": "2026-11-25T23:52:37Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 85885,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 86236,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6118,8 +6118,8 @@
     "createdAt": "2026-11-25T23:53:02Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1020,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1017,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6134,7 +6134,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6164,7 +6164,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6179,7 +6179,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 925,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6193,8 +6193,8 @@
     "createdAt": "2026-11-26T06:14:48Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 35031,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 35032,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6209,7 +6209,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 3,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6224,7 +6224,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 5,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6239,7 +6239,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1827,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6254,7 +6254,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6269,7 +6269,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 16831,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6284,7 +6284,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 80,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6314,7 +6314,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1226,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6328,8 +6328,8 @@
     "createdAt": "2026-11-25T22:15:25Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1044,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1045,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6344,7 +6344,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1377,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6358,8 +6358,8 @@
     "createdAt": "2026-11-25T19:00:14Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1131,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1132,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6374,7 +6374,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1397,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6388,8 +6388,8 @@
     "createdAt": "2026-11-25T18:22:17Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1147,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1150,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6403,8 +6403,8 @@
     "createdAt": "2026-11-25T17:28:32Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1267,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1266,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6418,8 +6418,8 @@
     "createdAt": "2026-11-25T15:30:06Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 374008,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 375180,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6433,8 +6433,8 @@
     "createdAt": "2026-11-25T15:12:25Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 9297,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 9323,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6448,8 +6448,8 @@
     "createdAt": "2026-11-25T15:11:55Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 220596,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 220887,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6464,7 +6464,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1324,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6479,7 +6479,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1270,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6493,8 +6493,8 @@
     "createdAt": "2026-11-25T23:15:12Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1311,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1316,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6509,7 +6509,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1210,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6524,7 +6524,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1284,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6539,7 +6539,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1009,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6553,8 +6553,8 @@
     "createdAt": "2026-11-25T22:45:37Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 42319,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 42518,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6569,7 +6569,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1212,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6584,7 +6584,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1791,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6599,7 +6599,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1345,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6613,8 +6613,8 @@
     "createdAt": "2026-11-25T21:34:56Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 57174,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 57192,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6628,8 +6628,8 @@
     "createdAt": "2026-11-25T19:19:58Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 90590,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 90610,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6643,8 +6643,8 @@
     "createdAt": "2026-11-25T18:42:43Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 395997,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 396572,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6659,7 +6659,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1725,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6674,7 +6674,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 10,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6689,7 +6689,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6703,8 +6703,8 @@
     "createdAt": "2026-11-25T23:53:45Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 19001,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 18999,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6718,8 +6718,8 @@
     "createdAt": "2026-11-25T23:11:16Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 25844,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 26140,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6733,8 +6733,8 @@
     "createdAt": "2026-11-25T23:00:16Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 20248,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 20270,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6749,7 +6749,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 2504,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6764,7 +6764,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 3844,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6779,7 +6779,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 54,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6793,8 +6793,8 @@
     "createdAt": "2026-11-25T21:16:10Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1254,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1255,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6808,8 +6808,8 @@
     "createdAt": "2026-11-25T21:01:26Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 10722,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 10765,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6824,7 +6824,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1069,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6838,8 +6838,8 @@
     "createdAt": "2026-11-25T20:07:19Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 71288,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 71535,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6854,7 +6854,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 595,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6869,7 +6869,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 3,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6884,7 +6884,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 27,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6930,7 +6930,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 19,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6945,7 +6945,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 21,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6960,7 +6960,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 5,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6975,7 +6975,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 3,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -6990,7 +6990,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 13,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7005,7 +7005,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 7,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7020,7 +7020,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 125,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7034,8 +7034,8 @@
     "createdAt": "2026-11-25T17:00:15Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1542,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1544,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7049,8 +7049,8 @@
     "createdAt": "2026-11-25T15:37:20Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 28111,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 28115,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7064,8 +7064,8 @@
     "createdAt": "2026-11-25T15:17:50Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 23479,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 23573,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7080,7 +7080,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 2682,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7095,7 +7095,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 3728,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7109,8 +7109,8 @@
     "createdAt": "2026-11-25T15:00:53Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 30776,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 30801,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7125,7 +7125,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1284,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7139,8 +7139,8 @@
     "createdAt": "2026-11-25T14:30:24Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 2569,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 2571,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7154,8 +7154,8 @@
     "createdAt": "2026-11-25T14:17:43Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 15544,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 15557,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7169,8 +7169,8 @@
     "createdAt": "2026-11-25T13:40:30Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 774586,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 774585,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7184,8 +7184,8 @@
     "createdAt": "2026-11-25T11:23:44Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1124770,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1128544,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7199,8 +7199,8 @@
     "createdAt": "2026-11-25T11:00:38Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 122617,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 122936,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7214,8 +7214,8 @@
     "createdAt": "2026-11-25T17:38:25Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 1452,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 1453,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7229,8 +7229,8 @@
     "createdAt": "2026-11-25T17:21:07Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 3092080,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 3097701,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7244,8 +7244,8 @@
     "createdAt": "2026-11-25T16:17:07Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 26747,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 26796,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7260,7 +7260,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1338,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7275,7 +7275,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 263810,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7289,8 +7289,8 @@
     "createdAt": "2026-11-25T14:18:43Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 4308817,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 4321323,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7305,7 +7305,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1232,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7319,8 +7319,8 @@
     "createdAt": "2026-11-25T13:48:23Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 33589,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 33634,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7335,7 +7335,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 36637,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7349,8 +7349,8 @@
     "createdAt": "2026-11-25T13:30:09Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 32271,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 32270,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7364,8 +7364,8 @@
     "createdAt": "2026-11-25T13:29:40Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 46059,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 46060,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7379,8 +7379,8 @@
     "createdAt": "2026-11-25T13:13:39Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 449635,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 449856,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7395,7 +7395,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1111,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7410,7 +7410,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7425,7 +7425,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 0,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7440,7 +7440,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 3208,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7455,7 +7455,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 863,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7485,7 +7485,7 @@
     "source": "youtube-api",
     "isLive": false,
     "viewCount": 1256,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "platform": "YouTube",
@@ -7499,8 +7499,8 @@
     "createdAt": "2026-11-25T17:00:04Z",
     "source": "youtube-api",
     "isLive": false,
-    "viewCount": 12839,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "viewCount": 12850,
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "id": "PYBfQZXFkYY",
@@ -7514,7 +7514,7 @@
     "createdAt": "2026-11-18T13:50:39.939Z",
     "viewCount": 388719,
     "isLive": false,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   },
   {
     "id": "BQvC8KDhgqw",
@@ -7528,6 +7528,6 @@
     "createdAt": "2026-11-18T13:49:29.867Z",
     "viewCount": 584225,
     "isLive": false,
-    "liveCheckedAt": "2026-11-28T10:44:18.082Z"
+    "liveCheckedAt": "2026-11-28T11:43:48.746Z"
   }
 ]
